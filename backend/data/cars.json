@@ -1,0 +1,907 @@
+{
+    "Audi": {
+        "A3": [
+            {
+                "id": "audi_a3_30tfsi",
+                "variant": "30 TFSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 4.3,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "audi_a3_35tfsi",
+                "variant": "35 TFSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 4.8,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "audi_a3_30tdi",
+                "variant": "30 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.9,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "A4": [
+            {
+                "id": "audi_a4_45tfsi",
+                "variant": "45 TFSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.9,
+                "fuel_capacity": 59.0
+            },
+            {
+                "id": "audi_a4_40tdi",
+                "variant": "40 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.5,
+                "fuel_capacity": 59.0
+            }
+        ]
+    },
+    "BMW": {
+        "3 Serisi": [
+            {
+                "id": "bmw_316i",
+                "variant": "316i",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.8,
+                "fuel_capacity": 59.0
+            },
+            {
+                "id": "bmw_318i",
+                "variant": "318i",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.0,
+                "fuel_capacity": 59.0
+            },
+            {
+                "id": "bmw_320i",
+                "variant": "320i",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.3,
+                "fuel_capacity": 59.0
+            }
+        ],
+        "5 Serisi": [
+            {
+                "id": "bmw_520i",
+                "variant": "520i",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.0,
+                "fuel_capacity": 68.0
+            },
+            {
+                "id": "bmw_530i",
+                "variant": "530i",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.2,
+                "fuel_capacity": 68.0
+            }
+        ]
+    },
+    "Citroen": {
+        "C3": [
+            {
+                "id": "citroen_c3_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.0,
+                "fuel_capacity": 40.0
+            }
+        ],
+        "C4": [
+            {
+                "id": "citroen_c4_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.9,
+                "fuel_capacity": 45.0
+            },
+            {
+                "id": "citroen_c4_15_bluehdi",
+                "variant": "1.5 BlueHDi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.8,
+                "fuel_capacity": 45.0
+            }
+        ],
+        "C4 X": [
+            {
+                "id": "citroen_c4_x_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.3,
+                "fuel_capacity": 48.0
+            },
+            {
+                "id": "citroen_c4_x_15_bluehdi",
+                "variant": "1.5 BlueHDi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 5.1,
+                "fuel_capacity": 48.0
+            }
+        ]
+    },
+    "Fiat": {
+        "Egea": [
+            {
+                "id": "fiat_egea_14_fire",
+                "variant": "1.4 Fire",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.5,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "fiat_egea_16_etorq",
+                "variant": "1.6 E-Torq",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.3,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "fiat_egea_13_mjet",
+                "variant": "1.3 Multijet",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.2,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "fiat_egea_16_mjet",
+                "variant": "1.6 Multijet",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.7,
+                "fuel_capacity": 50.0
+            }
+        ]
+    },
+    "Ford": {
+        "Fiesta": [
+            {
+                "id": "ford_fiesta_10_ecoboost",
+                "variant": "1.0 EcoBoost",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.3,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "ford_fiesta_15_tdci",
+                "variant": "1.5 TDCi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.5,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Focus": [
+            {
+                "id": "ford_focus_10_ecoboost",
+                "variant": "1.0 EcoBoost",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.3,
+                "fuel_capacity": 54.0
+            },
+            {
+                "id": "ford_focus_15_tivct",
+                "variant": "1.5 Ti-VCT",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.0,
+                "fuel_capacity": 54.0
+            },
+            {
+                "id": "ford_focus_15_ecoblue",
+                "variant": "1.5 EcoBlue",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.8,
+                "fuel_capacity": 54.0
+            }
+        ]
+    },
+    "Honda": {
+        "City": [
+            {
+                "id": "honda_city_15_ivtec",
+                "variant": "1.5 i-VTEC",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.2,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Civic": [
+            {
+                "id": "honda_civic_15_vtec",
+                "variant": "1.5 VTEC",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.7,
+                "fuel_capacity": 47.0
+            }
+        ]
+    },
+    "Hyundai": {
+        "Elantra": [
+            {
+                "id": "hyundai_elantra_16_mpi",
+                "variant": "1.6 MPI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.4,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "i20": [
+            {
+                "id": "hyundai_i20_10_tgdi",
+                "variant": "1.0 T-GDI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.1,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "hyundai_i20_14_mpi",
+                "variant": "1.4 MPI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.1,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Ioniq 5": [
+            {
+                "id": "hyundai_inoiq_5",
+                "variant": "Inoiq 5",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 63.0,
+                "average_consumption_kwh_per_100km": 15.6
+            }
+        ],
+        "Ioniq 6": [
+            {
+                "id": "hyundai_inoiq_6",
+                "variant": "Inoiq 6",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 53.0,
+                "average_consumption_kwh_per_100km": 13.9
+            }
+        ]
+    },
+    "Mercedes-Benz": {
+        "A Serisi": [
+            {
+                "id": "mercedes_a_200",
+                "variant": "A 200",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.2,
+                "fuel_capacity": 43.0
+            }
+        ],
+        "CLA Serisi": [
+            {
+                "id": "mercedes_cla_200",
+                "variant": "CLA 200",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.2,
+                "fuel_capacity": 43.0
+            },
+            {
+                "id": "mercedes_cla_350",
+                "variant": "CLA 350",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 85.0,
+                "average_consumption_kwh_per_100km": 13.8
+            }
+        ],
+        "C Serisi": [
+            {
+                "id": "mercedes_c_200",
+                "variant": "C 200",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.9,
+                "fuel_capacity": 66.0
+            }
+        ],
+        "E Serisi": [
+            {
+                "id": "mercedes_e_180",
+                "variant": "E 180",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.8,
+                "fuel_capacity": 68.0
+            },
+            {
+                "id": "mercedes_e_350",
+                "variant": "E 350",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.0,
+                "fuel_capacity": 68.0
+            }
+        ],
+        "EQB Serisi": [
+            {
+                "id": "mercedes_eqb_250",
+                "variant": "EQB 250+",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 70.5,
+                "average_consumption_kwh_per_100km": 16.5
+            },
+            {
+                "id": "mercedes_eqb_350",
+                "variant": "EQB 350",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 66.5,
+                "average_consumption_kwh_per_100km": 18.4
+            }
+        ],
+        "EQE Serisi": [
+            {
+                "id": "mercedes_eqe_280",
+                "variant": "EQE 280",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 90.0,
+                "average_consumption_kwh_per_100km": 17.1
+            },
+            {
+                "id": "mercedes_eqe_350",
+                "variant": "EQE 350",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 90.0,
+                "average_consumption_kwh_per_100km": 18.2
+            }
+        ],
+        "EQS Serisi": [
+            {
+                "id": "mercedes_eqs_450",
+                "variant": "EQS 450",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 108.0,
+                "average_consumption_kwh_per_100km": 21.2
+            },
+            {
+                "id": "mercedes_eqs_580",
+                "variant": "EQS 580",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 108.0,
+                "average_consumption_kwh_per_100km": 21.2
+            }
+        ]
+    },
+    "Opel": {
+        "Corsa": [
+            {
+                "id": "opel_corsa_12_t",
+                "variant": "1.2 T",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.6,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "opel_corsa_15_d",
+                "variant": "1.5 D",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.2,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Corsa-e": [
+            {
+                "id": "opel_corsa_e",
+                "variant": "Corsa-e",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 50.0,
+                "average_consumption_kwh_per_100km": 15.8
+            }
+        ],
+        "Astra": [
+            {
+                "id": "opel_astra_12_t",
+                "variant": "1.2 T",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.8,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "opel_astra_15_d",
+                "variant": "1.5 D",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 5.1,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "Astra-e": [
+            {
+                "id": "opel_astra_e",
+                "variant": "Astra-e",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 54.0,
+                "average_consumption_kwh_per_100km": 14.8
+            }
+        ]
+    },
+    "Peugeot": {
+        "208": [
+            {
+                "id": "peugeot_208_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.3,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "peugeot_208_15_bluehdi",
+                "variant": "1.5 BlueHDi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.7,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "e-208": [
+            {
+                "id": "opel_e_208",
+                "variant": "e-208",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 50.0,
+                "average_consumption_kwh_per_100km": 16.0
+            }
+        ],
+        "308": [
+            {
+                "id": "peugeot_308_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.9,
+                "fuel_capacity": 54.0
+            },
+            {
+                "id": "peugeot_308_15_bluehdi",
+                "variant": "1.5 BlueHDi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.6,
+                "fuel_capacity": 54.0
+            }
+        ],
+        "e-308": [
+            {
+                "id": "opel_e_308",
+                "variant": "e-308",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 51.0,
+                "average_consumption_kwh_per_100km": 15.0
+            }
+        ],
+        "408": [
+            {
+                "id": "peugeot_408_12_puretech",
+                "variant": "1.2 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.1,
+                "fuel_capacity": 52.0
+            }
+        ],
+        "508": [
+            {
+                "id": "peugeot_508_16_puretech",
+                "variant": "1.6 PureTech",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.4,
+                "fuel_capacity": 66.0
+            },
+            {
+                "id": "peugeot_508_15_bluehdi",
+                "variant": "1.5 BlueHDi",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 5.1,
+                "fuel_capacity": 66.0
+            }
+        ]
+    },
+    "Renault": {
+        "Clio": [
+            {
+                "id": "renault_clio_10_tce",
+                "variant": "1.0 TCe",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.0,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "renault_clio_15_bluedci",
+                "variant": "1.5 BlueDCI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.6,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "Megane": [
+            {
+                "id": "renault_megane_13_tce",
+                "variant": "1.3 TCe",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.2,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "renault_megane_15_bluedci",
+                "variant": "1.5 BlueDCI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.6,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "Megane E-Tech": [
+            {
+                "id": "renault_megane_e_tech",
+                "variant": "E-Tech EV60",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 60.0,
+                "average_consumption_kwh_per_100km": 15.3
+            }
+        ]
+    },
+    "Seat": {
+        "Ibiza": [
+            {
+                "id": "seat_ibiza_10_tsi",
+                "variant": "1.0 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.8,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "seat_ibiza_16_tdi",
+                "variant": "1.6 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.8,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Leon": [
+            {
+                "id": "seat_leon_10_etsi",
+                "variant": "1.0 eTSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 4.8,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "seat_leon_15_etsi",
+                "variant": "1.5 eTSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.3,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "seat_leon_16_tdi",
+                "variant": "1.6 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.1,
+                "fuel_capacity": 50.0
+            }
+        ]
+    },
+    "Skoda": {
+        "Fabia": [
+            {
+                "id": "skoda_fabia_10_tsi",
+                "variant": "1.0 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.3,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "skoda_fabia_15_tsi",
+                "variant": "1.5 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.6,
+                "fuel_capacity": 42.0
+            }
+        ],
+        "Scala": [
+            {
+                "id": "skoda_scala_10_tsi",
+                "variant": "1.0 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.4,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "skoda_scala_15_tsi",
+                "variant": "1.5 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.5,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "skoda_scala_16_tdi",
+                "variant": "1.6 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.1,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "Superb": [
+            {
+                "id": "skoda_superb_15_tsi",
+                "variant": "1.5 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.8,
+                "fuel_capacity": 66.0
+            },
+            {
+                "id": "skoda_suberp_20_tsi",
+                "variant": "2.0 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 7.7,
+                "fuel_capacity": 66.0
+            },
+            {
+                "id": "skoda_suberp_16_tdi",
+                "variant": "1.6 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.3,
+                "fuel_capacity": 66.0
+            },
+            {
+                "id": "skoda_suberp_20_tdi",
+                "variant": "2.0 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 5.9,
+                "fuel_capacity": 66.0
+            }
+        ]
+    },
+    "Tesla": {
+        "Model 3": [
+            {
+                "id": "tesla_model_3_standard_range",
+                "variant": "Standard Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 54.0,
+                "average_consumption_kwh_per_100km": 14.7
+            },
+            {
+                "id": "tesla_model_3_long_range",
+                "variant": "Long Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 75.0,
+                "average_consumption_kwh_per_100km": 15.5
+            }
+        ],
+        "Model S": [
+            {
+                "id": "tesla_model_s_long_range",
+                "variant": "Long Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 100.0,
+                "average_consumption_kwh_per_100km": 17.4
+            },
+            {
+                "id": "tesla_model_s_plaid",
+                "variant": "Plaid",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 100.0,
+                "average_consumption_kwh_per_100km": 20.7
+            }
+        ],
+        "Model X": [
+            {
+                "id": "tesla_model_x_long_range",
+                "variant": "Long Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 100.0,
+                "average_consumption_kwh_per_100km": 19.1
+            },
+            {
+                "id": "tesla_model_x_plaid",
+                "variant": "Plaid",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 100.0,
+                "average_consumption_kwh_per_100km": 20.5
+            }
+        ],
+        "Model Y": [
+            {
+                "id": "tesla_model_y_sr",
+                "variant": "Standard Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 62.5,
+                "average_consumption_kwh_per_100km": 13.9
+            },
+            {
+                "id": "tesla_model_y_lr",
+                "variant": "Long Range",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 78.4,
+                "average_consumption_kwh_per_100km": 14.2
+            }
+        ]
+    },
+    "TOGG": {
+        "T10F": [
+            {
+                "id": "togg_t10f_v1_sm",
+                "variant": "V1 Standart Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 52.4,
+                "average_consumption_kwh_per_100km": 17.2
+            },
+            {
+                "id": "togg_t10f_v1_um",
+                "variant": "V1 Uzun Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 17.4
+            },
+            {
+                "id": "togg_t10f_v2_um",
+                "variant": "V2 Uzun Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 17.4
+            },
+            {
+                "id": "togg_t10f_v2_4more",
+                "variant": "V2 4More",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 20.3
+            }
+        ],
+        "T10X": [
+            {
+                "id": "togg_t10x_v1_sm",
+                "variant": "V1 Standart Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 52.4,
+                "average_consumption_kwh_per_100km": 19.5
+            },
+            {
+                "id": "togg_t10x_v1_um",
+                "variant": "V1 Uzun Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 19.1
+            },
+            {
+                "id": "togg_t10x_v2_sm",
+                "variant": "V2 Standart Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 52.4,
+                "average_consumption_kwh_per_100km": 16.7
+            },
+            {
+                "id": "togg_t10x_v2_um",
+                "variant": "V2 Uzun Menzil",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 16.9
+            },
+            {
+                "id": "togg_t10x_v2_4more",
+                "variant": "V2 4More",
+                "engine_type": "Elektrik",
+                "battery_capacity_kwh": 88.5,
+                "average_consumption_kwh_per_100km": 21.9
+            }
+        ]
+    },
+    "Toyota": {
+        "CHR": [
+            {
+                "id": "toyota_chr_12_t",
+                "variant": "1.2 T",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.1,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "toyota_chr_18_hybrid",
+                "variant": "1.8 Hybrid",
+                "engine_type": "Hibrit",
+                "average_consumption_l_per_100km": 4.9,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "Corolla": [
+            {
+                "id": "toyota_corolla_12_t",
+                "variant": "1.2 T",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.8,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "toyota_corolla_15",
+                "variant": "1.5",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 6.3,
+                "fuel_capacity": 50.0
+            },
+            {
+                "id": "toyota_corolla_18_hybrid",
+                "variant": "1.8 Hybrid",
+                "engine_type": "Hibrit",
+                "average_consumption_l_per_100km": 4.7,
+                "fuel_capacity": 50.0
+            }
+        ],
+        "RAV4": [
+            {
+                "id": "toyota_rav4_25_hybrid",
+                "variant": "2.5 Hybrid",
+                "engine_type": "Hibrit",
+                "average_consumption_l_per_100km": 5.8,
+                "fuel_capacity": 55.0
+            }
+        ],
+        "Yaris": [
+            {
+                "id": "toyota_yaris_10",
+                "variant": "1.0",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 4.7,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "toyota_yaris_15",
+                "variant": "1.5",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 4.7,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "toyota_corolla_15_hybrid",
+                "variant": "1.5 Hybrid",
+                "engine_type": "Hibrit",
+                "average_consumption_l_per_100km": 3.9,
+                "fuel_capacity": 42.0
+            }
+        ]
+    },
+    "Volkswagen": {
+        "Golf": [
+            {
+                "id": "vw_golf_10_etsi",
+                "variant": "1.0 eTSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.2,
+                "fuel_capacity": 54.0
+            },
+            {
+                "id": "vw_golf_15_etsi",
+                "variant": "1.5 eTSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.2,
+                "fuel_capacity": 54.0
+            }
+        ],
+        "Passat": [
+            {
+                "id": "vw_passat_15_tsi",
+                "variant": "1.5 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.4,
+                "fuel_capacity": 66.0
+            },
+            {
+                "id": "vw_polo_20_tdi",
+                "variant": "2.0 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 4.1,
+                "fuel_capacity": 66.0
+            }
+        ],
+        "Polo": [
+            {
+                "id": "vw_polo_10_tsi",
+                "variant": "1.0 TSI",
+                "engine_type": "Benzin",
+                "average_consumption_l_per_100km": 5.5,
+                "fuel_capacity": 42.0
+            },
+            {
+                "id": "vw_polo_16_tdi",
+                "variant": "1.6 TDI",
+                "engine_type": "Dizel",
+                "average_consumption_l_per_100km": 3.9,
+                "fuel_capacity": 42.0
+            }
+        ]
+    }
+}

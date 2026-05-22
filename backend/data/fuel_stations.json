@@ -1,0 +1,4202 @@
+[
+  {
+    "station_id": "osm-fuel-node-292554234",
+    "name": "Benzinlik",
+    "latitude": 38.6452987,
+    "longitude": 27.0445645,
+    "nearest_osm_node_id": 6934929955
+  },
+  {
+    "station_id": "osm-fuel-node-292556351",
+    "name": "PARS",
+    "latitude": 38.7291054,
+    "longitude": 26.9805641,
+    "nearest_osm_node_id": 10876276224
+  },
+  {
+    "station_id": "osm-fuel-node-418030173",
+    "name": "Total Energies Ahmetçe",
+    "latitude": 39.5832686,
+    "longitude": 26.4977627,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-418030303",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5991996,
+    "longitude": 26.4322984,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-418035489",
+    "name": "Oecer Celik Petroleum",
+    "latitude": 39.6123105,
+    "longitude": 26.4109503,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-419853250",
+    "name": "Petrol Ofisi",
+    "latitude": 39.2750756,
+    "longitude": 26.6685622,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-419871106",
+    "name": "Total",
+    "latitude": 38.6764081,
+    "longitude": 27.0164267,
+    "nearest_osm_node_id": 6934985478
+  },
+  {
+    "station_id": "osm-fuel-node-419871755",
+    "name": "BP",
+    "latitude": 38.3878171,
+    "longitude": 27.1342594,
+    "nearest_osm_node_id": 3911422686
+  },
+  {
+    "station_id": "osm-fuel-node-599421304",
+    "name": "EKO",
+    "latitude": 39.1279878,
+    "longitude": 26.4349476,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-704498567",
+    "name": "BP",
+    "latitude": 39.1250958,
+    "longitude": 26.5446921,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-963551715",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0742602,
+    "longitude": 26.8894487,
+    "nearest_osm_node_id": 942947409
+  },
+  {
+    "station_id": "osm-fuel-node-1036420160",
+    "name": "Benzinlik",
+    "latitude": 39.2255072,
+    "longitude": 27.5642118,
+    "nearest_osm_node_id": 12507485472
+  },
+  {
+    "station_id": "osm-fuel-node-1256852905",
+    "name": "Göldağ Petrol (akpet)",
+    "latitude": 38.2751579,
+    "longitude": 28.005092,
+    "nearest_osm_node_id": 1256853150
+  },
+  {
+    "station_id": "osm-fuel-node-1287847224",
+    "name": "Total",
+    "latitude": 39.6004694,
+    "longitude": 27.4881213,
+    "nearest_osm_node_id": 8989786560
+  },
+  {
+    "station_id": "osm-fuel-node-1288148667",
+    "name": "Sunpet",
+    "latitude": 39.4767476,
+    "longitude": 27.372354,
+    "nearest_osm_node_id": 8989786560
+  },
+  {
+    "station_id": "osm-fuel-node-1289398307",
+    "name": "Benzinlik",
+    "latitude": 39.6231366,
+    "longitude": 27.0567928,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-1291374219",
+    "name": "Benzinlik",
+    "latitude": 39.4515089,
+    "longitude": 27.9139489,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-1291374257",
+    "name": "Benzinlik",
+    "latitude": 39.4747671,
+    "longitude": 27.9085794,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-1346078959",
+    "name": "EKO",
+    "latitude": 38.9726096,
+    "longitude": 26.3813823,
+    "nearest_osm_node_id": 2960012197
+  },
+  {
+    "station_id": "osm-fuel-node-1485688265",
+    "name": "Benzinlik",
+    "latitude": 39.1025935,
+    "longitude": 27.4022854,
+    "nearest_osm_node_id": 10830698999
+  },
+  {
+    "station_id": "osm-fuel-node-1486914265",
+    "name": "Benzinlik",
+    "latitude": 39.0036116,
+    "longitude": 28.0957834,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-1638111594",
+    "name": "Benzinlik",
+    "latitude": 39.0305186,
+    "longitude": 28.642758,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-1638145868",
+    "name": "Benzinlik",
+    "latitude": 38.937583,
+    "longitude": 28.3104206,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-1721533357",
+    "name": "Benzinlik",
+    "latitude": 38.6474238,
+    "longitude": 27.9316307,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-1800200924",
+    "name": "Benzinlik",
+    "latitude": 38.746668,
+    "longitude": 26.8478244,
+    "nearest_osm_node_id": 6926419978
+  },
+  {
+    "station_id": "osm-fuel-node-1800201182",
+    "name": "Port Tankstelle",
+    "latitude": 38.2533231,
+    "longitude": 26.3859179,
+    "nearest_osm_node_id": 340276602
+  },
+  {
+    "station_id": "osm-fuel-node-1870262424",
+    "name": "Benzinlik",
+    "latitude": 38.4481979,
+    "longitude": 28.4460897,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-1872823004",
+    "name": "Benzinlik",
+    "latitude": 38.3708731,
+    "longitude": 28.5043019,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-1872823129",
+    "name": "Benzinlik",
+    "latitude": 38.3859965,
+    "longitude": 28.4813339,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-1886902128",
+    "name": "Petrol Ofisi",
+    "latitude": 38.7412517,
+    "longitude": 27.604617,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-1909903830",
+    "name": "Opet",
+    "latitude": 39.6191859,
+    "longitude": 27.5697463,
+    "nearest_osm_node_id": 8989786560
+  },
+  {
+    "station_id": "osm-fuel-node-1981556933",
+    "name": "Benzinlik",
+    "latitude": 38.6998873,
+    "longitude": 27.6678944,
+    "nearest_osm_node_id": 13304780797
+  },
+  {
+    "station_id": "osm-fuel-node-1999984866",
+    "name": "Benzinlik",
+    "latitude": 39.4146358,
+    "longitude": 28.1350214,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-2112677988",
+    "name": "Petrol Ofisi",
+    "latitude": 38.1775149,
+    "longitude": 26.8314034,
+    "nearest_osm_node_id": 8231909901
+  },
+  {
+    "station_id": "osm-fuel-node-2190596108",
+    "name": "Shell",
+    "latitude": 38.4024987,
+    "longitude": 27.1166504,
+    "nearest_osm_node_id": 8386739340
+  },
+  {
+    "station_id": "osm-fuel-node-2221371590",
+    "name": "Benzinlik",
+    "latitude": 39.2727182,
+    "longitude": 27.8984284,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-2290038745",
+    "name": "Shell",
+    "latitude": 38.5088194,
+    "longitude": 28.2410672,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-2290129383",
+    "name": "Sunpet",
+    "latitude": 38.4968718,
+    "longitude": 28.1914705,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-2290265451",
+    "name": "Benzinlik",
+    "latitude": 38.7461194,
+    "longitude": 28.4006152,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-2290597952",
+    "name": "Benzinlik",
+    "latitude": 38.75179,
+    "longitude": 28.460315,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-2290598396",
+    "name": "Benzinlik",
+    "latitude": 38.7539847,
+    "longitude": 28.4838794,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-2421640652",
+    "name": "Petline",
+    "latitude": 39.1678624,
+    "longitude": 26.8385321,
+    "nearest_osm_node_id": 942947266
+  },
+  {
+    "station_id": "osm-fuel-node-2421883536",
+    "name": "ΕΛΙΝΟΙΛ",
+    "latitude": 39.1443161,
+    "longitude": 26.5289101,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-2425622145",
+    "name": "EKO",
+    "latitude": 39.1005744,
+    "longitude": 26.555094,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-2472144615",
+    "name": "Aytemiz",
+    "latitude": 38.4988222,
+    "longitude": 27.8665197,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-2476318790",
+    "name": "Petrol Ofisi",
+    "latitude": 38.5127217,
+    "longitude": 27.9341146,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-2505979684",
+    "name": "Benzinlik",
+    "latitude": 39.1840268,
+    "longitude": 27.5486972,
+    "nearest_osm_node_id": 5036585169
+  },
+  {
+    "station_id": "osm-fuel-node-2601036569",
+    "name": "BP",
+    "latitude": 38.5070291,
+    "longitude": 27.9913031,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-2601036586",
+    "name": "Petrol Ofisi",
+    "latitude": 38.5077606,
+    "longitude": 27.9913842,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-2678747355",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3179142,
+    "longitude": 26.8609515,
+    "nearest_osm_node_id": 2678747318
+  },
+  {
+    "station_id": "osm-fuel-node-2720462490",
+    "name": "Benzinlik",
+    "latitude": 38.1804298,
+    "longitude": 28.5287856,
+    "nearest_osm_node_id": 9963309784
+  },
+  {
+    "station_id": "osm-fuel-node-2730684584",
+    "name": "AVIN",
+    "latitude": 39.1205936,
+    "longitude": 26.4730296,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-3131264837",
+    "name": "Benzinlik",
+    "latitude": 39.0435169,
+    "longitude": 27.8658295,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-3165321846",
+    "name": "ΕΛΙΝΟΙΛ",
+    "latitude": 39.3163151,
+    "longitude": 26.2380781,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-3186063379",
+    "name": "Benzinlik",
+    "latitude": 38.1681268,
+    "longitude": 28.1025329,
+    "nearest_osm_node_id": 9600868224
+  },
+  {
+    "station_id": "osm-fuel-node-3259780533",
+    "name": "Benzinlik",
+    "latitude": 38.5066155,
+    "longitude": 27.5427315,
+    "nearest_osm_node_id": 10862823745
+  },
+  {
+    "station_id": "osm-fuel-node-3619166269",
+    "name": "Memoil",
+    "latitude": 38.476567,
+    "longitude": 28.0964665,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-3619166312",
+    "name": "Shell",
+    "latitude": 38.4783425,
+    "longitude": 28.0898056,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-3634053564",
+    "name": "Opet",
+    "latitude": 38.8933527,
+    "longitude": 27.7798008,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-3652488865",
+    "name": "Benzinlik",
+    "latitude": 39.4006105,
+    "longitude": 28.1232376,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-3696951652",
+    "name": "AVIN",
+    "latitude": 39.2352266,
+    "longitude": 26.2082906,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-3707619164",
+    "name": "Petrol Ofisi",
+    "latitude": 39.4968553,
+    "longitude": 26.3324609,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-3752888108",
+    "name": "Yunus Emre Tesisleri",
+    "latitude": 38.5551047,
+    "longitude": 28.4863668,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-3770398183",
+    "name": "Go",
+    "latitude": 39.5952549,
+    "longitude": 27.4987146,
+    "nearest_osm_node_id": 8989786560
+  },
+  {
+    "station_id": "osm-fuel-node-3864807078",
+    "name": "EKO",
+    "latitude": 38.9821762,
+    "longitude": 26.4010244,
+    "nearest_osm_node_id": 2960012197
+  },
+  {
+    "station_id": "osm-fuel-node-3864808081",
+    "name": "ΕΛΙΝΟΙΛ",
+    "latitude": 38.9790104,
+    "longitude": 26.4107239,
+    "nearest_osm_node_id": 602218878
+  },
+  {
+    "station_id": "osm-fuel-node-3948104997",
+    "name": "Total",
+    "latitude": 38.9134012,
+    "longitude": 27.8272681,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4269890592",
+    "name": "PO",
+    "latitude": 38.5404205,
+    "longitude": 28.6373507,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-4269916492",
+    "name": "TP",
+    "latitude": 38.1784056,
+    "longitude": 27.3550123,
+    "nearest_osm_node_id": 5893917065
+  },
+  {
+    "station_id": "osm-fuel-node-4269920390",
+    "name": "BP",
+    "latitude": 38.5570126,
+    "longitude": 28.6079174,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-4439733253",
+    "name": "Shell",
+    "latitude": 39.1492649,
+    "longitude": 27.4750199,
+    "nearest_osm_node_id": 5036585169
+  },
+  {
+    "station_id": "osm-fuel-node-4439733254",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.593604,
+    "longitude": 27.8309833,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-4440150474",
+    "name": "EKO",
+    "latitude": 39.1051535,
+    "longitude": 26.54662,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-4475146403",
+    "name": "Total",
+    "latitude": 39.616895,
+    "longitude": 26.4083183,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-4476599515",
+    "name": "Opet",
+    "latitude": 39.5864711,
+    "longitude": 26.8870638,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-4476600489",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.575948,
+    "longitude": 26.8487686,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-4481143312",
+    "name": "Shell",
+    "latitude": 39.1663164,
+    "longitude": 26.8400213,
+    "nearest_osm_node_id": 942947266
+  },
+  {
+    "station_id": "osm-fuel-node-4481143318",
+    "name": "Nipet",
+    "latitude": 39.0200841,
+    "longitude": 27.0737325,
+    "nearest_osm_node_id": 7037651078
+  },
+  {
+    "station_id": "osm-fuel-node-4481143321",
+    "name": "Petrol Ofisi",
+    "latitude": 38.8874845,
+    "longitude": 27.0662857,
+    "nearest_osm_node_id": 6488033398
+  },
+  {
+    "station_id": "osm-fuel-node-4481143413",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.167241,
+    "longitude": 26.840062,
+    "nearest_osm_node_id": 942947266
+  },
+  {
+    "station_id": "osm-fuel-node-4481143420",
+    "name": "BP",
+    "latitude": 39.0698512,
+    "longitude": 27.116519,
+    "nearest_osm_node_id": 12367171166
+  },
+  {
+    "station_id": "osm-fuel-node-4481393427",
+    "name": "Petrol Ofisi",
+    "latitude": 38.7904353,
+    "longitude": 26.9703749,
+    "nearest_osm_node_id": 6886216433
+  },
+  {
+    "station_id": "osm-fuel-node-4481395281",
+    "name": "Total",
+    "latitude": 38.8450268,
+    "longitude": 27.0147093,
+    "nearest_osm_node_id": 6926225607
+  },
+  {
+    "station_id": "osm-fuel-node-4699018053",
+    "name": "Opet",
+    "latitude": 39.425587,
+    "longitude": 26.8603728,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-4699018058",
+    "name": "Opet Çeşme",
+    "latitude": 38.312228,
+    "longitude": 26.344997,
+    "nearest_osm_node_id": 3067500115
+  },
+  {
+    "station_id": "osm-fuel-node-4699018059",
+    "name": "Opet Şehzadeler",
+    "latitude": 38.6796833,
+    "longitude": 27.478792,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-4699018195",
+    "name": "Opet",
+    "latitude": 38.476642,
+    "longitude": 28.100519,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-4699018283",
+    "name": "Opet Akhisar",
+    "latitude": 38.923539,
+    "longitude": 27.834514,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4699018396",
+    "name": "Opet Kula",
+    "latitude": 38.5642289,
+    "longitude": 28.5900205,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-4699018432",
+    "name": "Opet Menderes",
+    "latitude": 38.279831,
+    "longitude": 27.199165,
+    "nearest_osm_node_id": 2212599592
+  },
+  {
+    "station_id": "osm-fuel-node-4699018473",
+    "name": "Opet Bornova",
+    "latitude": 38.4316673,
+    "longitude": 27.2255316,
+    "nearest_osm_node_id": 2200958019
+  },
+  {
+    "station_id": "osm-fuel-node-4699018905",
+    "name": "Opet",
+    "latitude": 39.5532376,
+    "longitude": 27.1059776,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-4699018909",
+    "name": "Opet Karabağlar",
+    "latitude": 38.377518,
+    "longitude": 27.109703,
+    "nearest_osm_node_id": 2272602969
+  },
+  {
+    "station_id": "osm-fuel-node-4699018929",
+    "name": "Opet Bayraklı",
+    "latitude": 38.4649605,
+    "longitude": 27.189841,
+    "nearest_osm_node_id": 1693519829
+  },
+  {
+    "station_id": "osm-fuel-node-4699019338",
+    "name": "Opet Altıeylül",
+    "latitude": 39.584655,
+    "longitude": 27.93153,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-4699019375",
+    "name": "Opet Kınık",
+    "latitude": 39.1010498,
+    "longitude": 27.3451236,
+    "nearest_osm_node_id": 1485688235
+  },
+  {
+    "station_id": "osm-fuel-node-4699019376",
+    "name": "Opet Saruhanlı",
+    "latitude": 38.7325077,
+    "longitude": 27.5870486,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-4699020231",
+    "name": "Opet Akhisar",
+    "latitude": 38.993599,
+    "longitude": 27.845589,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4699020246",
+    "name": "Opet Buca",
+    "latitude": 38.362741,
+    "longitude": 27.149681,
+    "nearest_osm_node_id": 2204238561
+  },
+  {
+    "station_id": "osm-fuel-node-4699020264",
+    "name": "Opet Çamdibi",
+    "latitude": 38.4292949,
+    "longitude": 27.1816231,
+    "nearest_osm_node_id": 2201046910
+  },
+  {
+    "station_id": "osm-fuel-node-4699020279",
+    "name": "Opet",
+    "latitude": 39.183023,
+    "longitude": 27.60088,
+    "nearest_osm_node_id": 2674843680
+  },
+  {
+    "station_id": "osm-fuel-node-4699020288",
+    "name": "Opet",
+    "latitude": 38.479952,
+    "longitude": 28.119021,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-4699020892",
+    "name": "Opet Sındırgı",
+    "latitude": 39.237117,
+    "longitude": 28.157994,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-4699020982",
+    "name": "Opet Alaşehir",
+    "latitude": 38.351566,
+    "longitude": 28.522878,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-4699020984",
+    "name": "Kadoil",
+    "latitude": 38.508749,
+    "longitude": 28.246278,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-4699020986",
+    "name": "Opet",
+    "latitude": 39.1894783,
+    "longitude": 27.5883233,
+    "nearest_osm_node_id": 2674843680
+  },
+  {
+    "station_id": "osm-fuel-node-4699022908",
+    "name": "Opet Bigadiç",
+    "latitude": 39.4014745,
+    "longitude": 28.1220411,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-4699022937",
+    "name": "Opet Yalçınlar Akaryakıt",
+    "latitude": 38.5062603,
+    "longitude": 27.0497039,
+    "nearest_osm_node_id": 3873536311
+  },
+  {
+    "station_id": "osm-fuel-node-4699022939",
+    "name": "Opet Ödemiş",
+    "latitude": 38.2275656,
+    "longitude": 27.9878104,
+    "nearest_osm_node_id": 1256873500
+  },
+  {
+    "station_id": "osm-fuel-node-4699022941",
+    "name": "Opet",
+    "latitude": 39.1175948,
+    "longitude": 27.1991036,
+    "nearest_osm_node_id": 3820476549
+  },
+  {
+    "station_id": "osm-fuel-node-4699022947",
+    "name": "Opet Bornova",
+    "latitude": 38.4409753,
+    "longitude": 27.2699695,
+    "nearest_osm_node_id": 268090915
+  },
+  {
+    "station_id": "osm-fuel-node-4709389132",
+    "name": "Shell",
+    "latitude": 38.4823759,
+    "longitude": 27.2422539,
+    "nearest_osm_node_id": 544479614
+  },
+  {
+    "station_id": "osm-fuel-node-4709397503",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3943233,
+    "longitude": 27.0372344,
+    "nearest_osm_node_id": 8586894626
+  },
+  {
+    "station_id": "osm-fuel-node-4709443593",
+    "name": "Benzinlik",
+    "latitude": 38.3809817,
+    "longitude": 27.1352133,
+    "nearest_osm_node_id": 2207684145
+  },
+  {
+    "station_id": "osm-fuel-node-4709478484",
+    "name": "Benzinlik",
+    "latitude": 38.2174019,
+    "longitude": 27.6379318,
+    "nearest_osm_node_id": 1033126487
+  },
+  {
+    "station_id": "osm-fuel-node-4709503620",
+    "name": "Benzinlik",
+    "latitude": 38.2315116,
+    "longitude": 28.215854,
+    "nearest_osm_node_id": 9590071874
+  },
+  {
+    "station_id": "osm-fuel-node-4709503625",
+    "name": "Benzinlik",
+    "latitude": 38.2302016,
+    "longitude": 28.2396678,
+    "nearest_osm_node_id": 4709503626
+  },
+  {
+    "station_id": "osm-fuel-node-4709909116",
+    "name": "Benzinlik",
+    "latitude": 38.7523255,
+    "longitude": 27.6267081,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-4709909117",
+    "name": "Shell",
+    "latitude": 38.7573737,
+    "longitude": 27.6355466,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4709909127",
+    "name": "Benzinlik",
+    "latitude": 38.7604241,
+    "longitude": 27.6421819,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4709909133",
+    "name": "Shell",
+    "latitude": 38.7688168,
+    "longitude": 27.656263,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4709909134",
+    "name": "Aytemiz",
+    "latitude": 38.7692174,
+    "longitude": 27.6557867,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4748577043",
+    "name": "Benzinlik",
+    "latitude": 38.1699208,
+    "longitude": 28.0973346,
+    "nearest_osm_node_id": 3186063437
+  },
+  {
+    "station_id": "osm-fuel-node-4748577081",
+    "name": "Benzinlik",
+    "latitude": 38.2014634,
+    "longitude": 28.0411003,
+    "nearest_osm_node_id": 1364746804
+  },
+  {
+    "station_id": "osm-fuel-node-4748577086",
+    "name": "Benzinlik",
+    "latitude": 38.2122993,
+    "longitude": 28.0200286,
+    "nearest_osm_node_id": 12927613269
+  },
+  {
+    "station_id": "osm-fuel-node-4748577087",
+    "name": "Benzinlik",
+    "latitude": 38.2506015,
+    "longitude": 27.9933594,
+    "nearest_osm_node_id": 4537701172
+  },
+  {
+    "station_id": "osm-fuel-node-4764971991",
+    "name": "Opet",
+    "latitude": 38.4778567,
+    "longitude": 27.0976044,
+    "nearest_osm_node_id": 3443338544
+  },
+  {
+    "station_id": "osm-fuel-node-4785718048",
+    "name": "Benzinlik",
+    "latitude": 38.4016156,
+    "longitude": 27.1487975,
+    "nearest_osm_node_id": 2202932238
+  },
+  {
+    "station_id": "osm-fuel-node-4785718115",
+    "name": "Petrol Ofisi",
+    "latitude": 38.2967535,
+    "longitude": 27.1436794,
+    "nearest_osm_node_id": 33084513
+  },
+  {
+    "station_id": "osm-fuel-node-4823467421",
+    "name": "Aygaz Otogaz",
+    "latitude": 38.4416541,
+    "longitude": 27.1785053,
+    "nearest_osm_node_id": 435197965
+  },
+  {
+    "station_id": "osm-fuel-node-4873848983",
+    "name": "Shell",
+    "latitude": 38.378278,
+    "longitude": 26.894971,
+    "nearest_osm_node_id": 6483562214
+  },
+  {
+    "station_id": "osm-fuel-node-4875795524",
+    "name": "Benzinlik",
+    "latitude": 39.5901189,
+    "longitude": 28.6272892,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-4875795525",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5856291,
+    "longitude": 28.6218941,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-4875795530",
+    "name": "Benzinlik",
+    "latitude": 39.5773359,
+    "longitude": 28.6030674,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-4889514833",
+    "name": "Benzinlik",
+    "latitude": 38.7868369,
+    "longitude": 27.6706093,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4889514834",
+    "name": "Benzinlik",
+    "latitude": 38.8319925,
+    "longitude": 27.7106796,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4889514839",
+    "name": "Benzinlik",
+    "latitude": 38.8521441,
+    "longitude": 27.730198,
+    "nearest_osm_node_id": 2674801485
+  },
+  {
+    "station_id": "osm-fuel-node-4889514844",
+    "name": "Benzinlik",
+    "latitude": 38.8716794,
+    "longitude": 27.7478919,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4889514850",
+    "name": "Benzinlik",
+    "latitude": 38.8805647,
+    "longitude": 27.7560978,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4889514859",
+    "name": "Benzinlik",
+    "latitude": 38.884339,
+    "longitude": 27.7609653,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4889514889",
+    "name": "Benzinlik",
+    "latitude": 38.9488104,
+    "longitude": 27.8360655,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4889514896",
+    "name": "Benzinlik",
+    "latitude": 38.9579995,
+    "longitude": 27.8378114,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4889514901",
+    "name": "Petrol Ofisi",
+    "latitude": 38.9914881,
+    "longitude": 27.8465646,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-4916562932",
+    "name": "Shell",
+    "latitude": 39.5844581,
+    "longitude": 27.0215637,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-4920419017",
+    "name": "Oto Milangaz",
+    "latitude": 38.2178865,
+    "longitude": 27.6528294,
+    "nearest_osm_node_id": 4945771888
+  },
+  {
+    "station_id": "osm-fuel-node-4948534550",
+    "name": "Benzinlik",
+    "latitude": 38.4330551,
+    "longitude": 27.1700976,
+    "nearest_osm_node_id": 5359174303
+  },
+  {
+    "station_id": "osm-fuel-node-4984922228",
+    "name": "Benzinlik",
+    "latitude": 39.4864728,
+    "longitude": 26.9457676,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-5036047107",
+    "name": "Total",
+    "latitude": 39.5133691,
+    "longitude": 26.9778665,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5036585163",
+    "name": "Benzinlik",
+    "latitude": 39.0899552,
+    "longitude": 27.3888666,
+    "nearest_osm_node_id": 7597145056
+  },
+  {
+    "station_id": "osm-fuel-node-5036585168",
+    "name": "Benzinlik",
+    "latitude": 39.1231609,
+    "longitude": 27.4510749,
+    "nearest_osm_node_id": 1485688414
+  },
+  {
+    "station_id": "osm-fuel-node-5036585180",
+    "name": "Benzinlik",
+    "latitude": 39.1493826,
+    "longitude": 27.4791982,
+    "nearest_osm_node_id": 5036585169
+  },
+  {
+    "station_id": "osm-fuel-node-5036585191",
+    "name": "Benzinlik",
+    "latitude": 39.1744979,
+    "longitude": 27.5062806,
+    "nearest_osm_node_id": 5036585169
+  },
+  {
+    "station_id": "osm-fuel-node-5036585196",
+    "name": "Petrol Ofisi",
+    "latitude": 39.1869638,
+    "longitude": 27.5649515,
+    "nearest_osm_node_id": 5036585169
+  },
+  {
+    "station_id": "osm-fuel-node-5036585197",
+    "name": "Benzinlik",
+    "latitude": 39.1915491,
+    "longitude": 27.5837622,
+    "nearest_osm_node_id": 2674843912
+  },
+  {
+    "station_id": "osm-fuel-node-5036585202",
+    "name": "Benzinlik",
+    "latitude": 39.1828354,
+    "longitude": 27.6295709,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-5036585203",
+    "name": "Benzinlik",
+    "latitude": 39.1824543,
+    "longitude": 27.6308739,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-5036585204",
+    "name": "Benzinlik",
+    "latitude": 39.1798335,
+    "longitude": 27.6381288,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-5036585209",
+    "name": "Benzinlik",
+    "latitude": 39.1617461,
+    "longitude": 27.6661612,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-5036585214",
+    "name": "Benzinlik",
+    "latitude": 39.1395163,
+    "longitude": 27.6705686,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-5036589423",
+    "name": "Benzinlik",
+    "latitude": 39.1010062,
+    "longitude": 27.6910111,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-5036589428",
+    "name": "Benzinlik",
+    "latitude": 39.0837751,
+    "longitude": 27.7116569,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-5036589458",
+    "name": "Turkuaz Petrol",
+    "latitude": 39.0593387,
+    "longitude": 27.7280783,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-5036643102",
+    "name": "Benzinlik",
+    "latitude": 38.9659448,
+    "longitude": 27.8081787,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-5038892594",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5855175,
+    "longitude": 26.9059108,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038892595",
+    "name": "Benzinlik",
+    "latitude": 39.5885087,
+    "longitude": 26.9231675,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038892596",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5900313,
+    "longitude": 26.9291846,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038892597",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5926792,
+    "longitude": 26.9354635,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038892598",
+    "name": "Shell",
+    "latitude": 39.5961767,
+    "longitude": 26.9693366,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038906490",
+    "name": "Lukoil",
+    "latitude": 39.5820327,
+    "longitude": 27.0321033,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038906491",
+    "name": "Total",
+    "latitude": 39.5758697,
+    "longitude": 27.0398377,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038906492",
+    "name": "Aytemiz",
+    "latitude": 39.5754851,
+    "longitude": 27.0392137,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038906493",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.5738963,
+    "longitude": 27.041744,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5038906494",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5657702,
+    "longitude": 27.069702,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5057830991",
+    "name": "Lukoil",
+    "latitude": 39.0964938,
+    "longitude": 27.2982372,
+    "nearest_osm_node_id": 6919837946
+  },
+  {
+    "station_id": "osm-fuel-node-5057831035",
+    "name": "Benzinlik",
+    "latitude": 39.1027711,
+    "longitude": 27.2807466,
+    "nearest_osm_node_id": 5057831071
+  },
+  {
+    "station_id": "osm-fuel-node-5057831044",
+    "name": "Benzinlik",
+    "latitude": 39.100295,
+    "longitude": 27.283628,
+    "nearest_osm_node_id": 7920828510
+  },
+  {
+    "station_id": "osm-fuel-node-5057831190",
+    "name": "Petrol Ofisi",
+    "latitude": 39.1168225,
+    "longitude": 27.200834,
+    "nearest_osm_node_id": 7051074918
+  },
+  {
+    "station_id": "osm-fuel-node-5057974948",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0950953,
+    "longitude": 27.1419299,
+    "nearest_osm_node_id": 6594219208
+  },
+  {
+    "station_id": "osm-fuel-node-5070156490",
+    "name": "Benzinlik",
+    "latitude": 38.7025818,
+    "longitude": 27.5243191,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5071537925",
+    "name": "Opet",
+    "latitude": 39.5507181,
+    "longitude": 27.0940507,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5081370597",
+    "name": "Shell",
+    "latitude": 39.4867203,
+    "longitude": 26.9498732,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-5083124033",
+    "name": "Shell",
+    "latitude": 39.5574409,
+    "longitude": 27.1193868,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5105130426",
+    "name": "EKO",
+    "latitude": 39.3333983,
+    "longitude": 26.3169726,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-5111317483",
+    "name": "Benzinlik",
+    "latitude": 38.5130502,
+    "longitude": 28.1935771,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-5111317519",
+    "name": "Benzinlik",
+    "latitude": 38.5514423,
+    "longitude": 28.2412806,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-5113089001",
+    "name": "Benzinlik",
+    "latitude": 39.5328835,
+    "longitude": 27.0075992,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5113089006",
+    "name": "Benzinlik",
+    "latitude": 39.5228348,
+    "longitude": 26.9988502,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5144674374",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5589165,
+    "longitude": 27.207777,
+    "nearest_osm_node_id": 8989787321
+  },
+  {
+    "station_id": "osm-fuel-node-5165097740",
+    "name": "Koçgaz",
+    "latitude": 39.6397992,
+    "longitude": 27.7465986,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-5264013990",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3080628,
+    "longitude": 27.157009,
+    "nearest_osm_node_id": 6169283044
+  },
+  {
+    "station_id": "osm-fuel-node-5271403375",
+    "name": "Lukoil",
+    "latitude": 39.5482567,
+    "longitude": 26.6057899,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-5271403376",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5477363,
+    "longitude": 26.6126483,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-5271403377",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5484479,
+    "longitude": 26.6128069,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-5275169925",
+    "name": "Alpet",
+    "latitude": 38.622578,
+    "longitude": 26.9273927,
+    "nearest_osm_node_id": 614117640
+  },
+  {
+    "station_id": "osm-fuel-node-5287555311",
+    "name": "Benzinlik",
+    "latitude": 38.4224566,
+    "longitude": 27.1496476,
+    "nearest_osm_node_id": 2202645369
+  },
+  {
+    "station_id": "osm-fuel-node-5338470566",
+    "name": "Güvenal Gaz",
+    "latitude": 39.6124278,
+    "longitude": 27.895489,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-5351162053",
+    "name": "Benzinlik",
+    "latitude": 38.3545633,
+    "longitude": 27.8256841,
+    "nearest_osm_node_id": 7997609587
+  },
+  {
+    "station_id": "osm-fuel-node-5359597377",
+    "name": "Benzinlik",
+    "latitude": 39.5181086,
+    "longitude": 27.9001973,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5359597382",
+    "name": "Benzinlik",
+    "latitude": 39.5326173,
+    "longitude": 27.8978959,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5359597391",
+    "name": "fox",
+    "latitude": 39.5429732,
+    "longitude": 27.9015827,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5387849419",
+    "name": "Benzinlik",
+    "latitude": 38.9726974,
+    "longitude": 28.2391608,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-5402208875",
+    "name": "Benzinlik",
+    "latitude": 38.7403118,
+    "longitude": 28.3919361,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5402208880",
+    "name": "Benzinlik",
+    "latitude": 38.7377649,
+    "longitude": 28.3850536,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5409564889",
+    "name": "Benzinlik",
+    "latitude": 38.7209362,
+    "longitude": 27.919353,
+    "nearest_osm_node_id": 6170746212
+  },
+  {
+    "station_id": "osm-fuel-node-5409564890",
+    "name": "Benzinlik",
+    "latitude": 38.7234889,
+    "longitude": 27.9201919,
+    "nearest_osm_node_id": 6170746212
+  },
+  {
+    "station_id": "osm-fuel-node-5409565851",
+    "name": "Benzinlik",
+    "latitude": 38.5358108,
+    "longitude": 28.1032346,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-5409565867",
+    "name": "Benzinlik",
+    "latitude": 38.5243964,
+    "longitude": 28.1311282,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-5409565869",
+    "name": "Benzinlik",
+    "latitude": 38.4929011,
+    "longitude": 28.2261538,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5409623336",
+    "name": "Petrotürk",
+    "latitude": 38.5083035,
+    "longitude": 28.2596763,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5409623337",
+    "name": "Kadoil",
+    "latitude": 38.5089515,
+    "longitude": 28.2610424,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5409623338",
+    "name": "7 Kıta",
+    "latitude": 38.5096873,
+    "longitude": 28.2934487,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-5409623356",
+    "name": "Kadoil",
+    "latitude": 38.5240856,
+    "longitude": 28.3825657,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-5409623357",
+    "name": "Petroil",
+    "latitude": 38.5256846,
+    "longitude": 28.3843466,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-5409623360",
+    "name": "7 Kıta",
+    "latitude": 38.5611831,
+    "longitude": 28.5430858,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-5409623361",
+    "name": "Parkoil",
+    "latitude": 38.5673328,
+    "longitude": 28.5723755,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-5409623387",
+    "name": "Benzinlik",
+    "latitude": 38.5407113,
+    "longitude": 28.6403858,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417168818",
+    "name": "Benzinlik",
+    "latitude": 38.2747149,
+    "longitude": 28.6199271,
+    "nearest_osm_node_id": 12648803438
+  },
+  {
+    "station_id": "osm-fuel-node-5417168819",
+    "name": "Benzinlik",
+    "latitude": 38.2739316,
+    "longitude": 28.6209839,
+    "nearest_osm_node_id": 12648803438
+  },
+  {
+    "station_id": "osm-fuel-node-5417168820",
+    "name": "Benzinlik",
+    "latitude": 38.2809074,
+    "longitude": 28.6099543,
+    "nearest_osm_node_id": 12648803438
+  },
+  {
+    "station_id": "osm-fuel-node-5417203621",
+    "name": "Benzinlik",
+    "latitude": 38.3220243,
+    "longitude": 28.5771531,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203622",
+    "name": "Benzinlik",
+    "latitude": 38.326228,
+    "longitude": 28.5728919,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203623",
+    "name": "Benzinlik",
+    "latitude": 38.331592,
+    "longitude": 28.5651623,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203624",
+    "name": "Benzinlik",
+    "latitude": 38.3332078,
+    "longitude": 28.5613541,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203625",
+    "name": "Benzinlik",
+    "latitude": 38.3383213,
+    "longitude": 28.5559674,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203626",
+    "name": "Benzinlik",
+    "latitude": 38.3588443,
+    "longitude": 28.5381582,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-5417203628",
+    "name": "Benzinlik",
+    "latitude": 38.3640664,
+    "longitude": 28.5188116,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-5417203629",
+    "name": "Benzinlik",
+    "latitude": 38.3649539,
+    "longitude": 28.5152442,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-5417203630",
+    "name": "Benzinlik",
+    "latitude": 38.3655933,
+    "longitude": 28.5139299,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-5417203631",
+    "name": "Benzinlik",
+    "latitude": 38.3693954,
+    "longitude": 28.5059048,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-5417203643",
+    "name": "Benzinlik",
+    "latitude": 38.4111772,
+    "longitude": 28.4380852,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-5419878980",
+    "name": "Gulf",
+    "latitude": 39.5608351,
+    "longitude": 26.6986556,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-5419879017",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5684979,
+    "longitude": 26.737326,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-5424989921",
+    "name": "Memoil",
+    "latitude": 38.6907981,
+    "longitude": 27.5032584,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5424989931",
+    "name": "Petrol Ofisi",
+    "latitude": 38.5904145,
+    "longitude": 27.3547355,
+    "nearest_osm_node_id": 9452362937
+  },
+  {
+    "station_id": "osm-fuel-node-5424996526",
+    "name": "Petrol Ofisi",
+    "latitude": 38.6196739,
+    "longitude": 27.357269,
+    "nearest_osm_node_id": 9452362937
+  },
+  {
+    "station_id": "osm-fuel-node-5424996635",
+    "name": "Shell",
+    "latitude": 38.4803545,
+    "longitude": 27.1850545,
+    "nearest_osm_node_id": 2214483886
+  },
+  {
+    "station_id": "osm-fuel-node-5429001550",
+    "name": "AviN",
+    "latitude": 39.124675,
+    "longitude": 26.4088332,
+    "nearest_osm_node_id": 6442255863
+  },
+  {
+    "station_id": "osm-fuel-node-5448262769",
+    "name": "Benzinlik",
+    "latitude": 38.4369913,
+    "longitude": 27.3992817,
+    "nearest_osm_node_id": 6908025696
+  },
+  {
+    "station_id": "osm-fuel-node-5459907539",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4306,
+    "longitude": 27.2116425,
+    "nearest_osm_node_id": 6817804939
+  },
+  {
+    "station_id": "osm-fuel-node-5459907561",
+    "name": "Benzinlik",
+    "latitude": 38.4584734,
+    "longitude": 27.2516083,
+    "nearest_osm_node_id": 12824072661
+  },
+  {
+    "station_id": "osm-fuel-node-5459907562",
+    "name": "Benzinlik",
+    "latitude": 38.453678,
+    "longitude": 27.2614615,
+    "nearest_osm_node_id": 3813606007
+  },
+  {
+    "station_id": "osm-fuel-node-5459907567",
+    "name": "Benzinlik",
+    "latitude": 38.4261928,
+    "longitude": 27.191482,
+    "nearest_osm_node_id": 8331236094
+  },
+  {
+    "station_id": "osm-fuel-node-5459907572",
+    "name": "Benzinlik",
+    "latitude": 38.4312472,
+    "longitude": 27.1801828,
+    "nearest_osm_node_id": 2201129584
+  },
+  {
+    "station_id": "osm-fuel-node-5489069349",
+    "name": "Shell",
+    "latitude": 38.2024464,
+    "longitude": 27.607879,
+    "nearest_osm_node_id": 3259392672
+  },
+  {
+    "station_id": "osm-fuel-node-5489103521",
+    "name": "TotalEnergies",
+    "latitude": 38.2081696,
+    "longitude": 27.6241036,
+    "nearest_osm_node_id": 4917532867
+  },
+  {
+    "station_id": "osm-fuel-node-5490112545",
+    "name": "Teco",
+    "latitude": 38.7158344,
+    "longitude": 26.9827408,
+    "nearest_osm_node_id": 6428848080
+  },
+  {
+    "station_id": "osm-fuel-node-5490112546",
+    "name": "Kadoil",
+    "latitude": 38.7131609,
+    "longitude": 26.9853249,
+    "nearest_osm_node_id": 6428848080
+  },
+  {
+    "station_id": "osm-fuel-node-5490112547",
+    "name": "Benzinlik",
+    "latitude": 38.711516,
+    "longitude": 26.9869081,
+    "nearest_osm_node_id": 6847341425
+  },
+  {
+    "station_id": "osm-fuel-node-5490112548",
+    "name": "Benzinlik",
+    "latitude": 38.710713,
+    "longitude": 26.9865939,
+    "nearest_osm_node_id": 12901835501
+  },
+  {
+    "station_id": "osm-fuel-node-5490112550",
+    "name": "Benzinlik",
+    "latitude": 38.6953542,
+    "longitude": 26.9998576,
+    "nearest_osm_node_id": 2588323079
+  },
+  {
+    "station_id": "osm-fuel-node-5490112551",
+    "name": "Total",
+    "latitude": 38.6918331,
+    "longitude": 27.0019424,
+    "nearest_osm_node_id": 6564564746
+  },
+  {
+    "station_id": "osm-fuel-node-5490112552",
+    "name": "Teco",
+    "latitude": 38.6919602,
+    "longitude": 27.0029723,
+    "nearest_osm_node_id": 6564564746
+  },
+  {
+    "station_id": "osm-fuel-node-5490112553",
+    "name": "Benzinlik",
+    "latitude": 38.6825704,
+    "longitude": 27.0110876,
+    "nearest_osm_node_id": 6428872593
+  },
+  {
+    "station_id": "osm-fuel-node-5603683637",
+    "name": "Shell",
+    "latitude": 39.5593575,
+    "longitude": 27.9804463,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5603683638",
+    "name": "Gulf Oil",
+    "latitude": 39.5706459,
+    "longitude": 27.9627458,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5618974423",
+    "name": "Petrol Ofisi",
+    "latitude": 39.645618,
+    "longitude": 27.7683417,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-5618974447",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.6457129,
+    "longitude": 27.7783517,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-5687733257",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4878734,
+    "longitude": 28.0594684,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-5701901811",
+    "name": "Benzinlik",
+    "latitude": 39.6435524,
+    "longitude": 28.02732,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5837906488",
+    "name": "Benzinlik",
+    "latitude": 39.6416627,
+    "longitude": 27.8970009,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-5850793573",
+    "name": "Benzinlik",
+    "latitude": 38.7146924,
+    "longitude": 27.9208096,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-5854202449",
+    "name": "Benzinlik",
+    "latitude": 38.3351916,
+    "longitude": 26.3050589,
+    "nearest_osm_node_id": 3084453276
+  },
+  {
+    "station_id": "osm-fuel-node-5889764972",
+    "name": "Benzinlik",
+    "latitude": 38.254579,
+    "longitude": 27.1245418,
+    "nearest_osm_node_id": 2211322580
+  },
+  {
+    "station_id": "osm-fuel-node-5889815561",
+    "name": "Era Gas",
+    "latitude": 38.6810558,
+    "longitude": 27.4835433,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815562",
+    "name": "Benzinlik",
+    "latitude": 38.6640575,
+    "longitude": 27.450351,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815563",
+    "name": "Petrol Ofisi",
+    "latitude": 38.6632826,
+    "longitude": 27.4506729,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815564",
+    "name": "BP",
+    "latitude": 38.6597175,
+    "longitude": 27.4478465,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815565",
+    "name": "Petrol Ofisi",
+    "latitude": 38.6582749,
+    "longitude": 27.447344,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815566",
+    "name": "Benzinlik",
+    "latitude": 38.6571915,
+    "longitude": 27.4476979,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815797",
+    "name": "Total",
+    "latitude": 38.6337782,
+    "longitude": 27.4383063,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5889815798",
+    "name": "Benzinlik",
+    "latitude": 38.632894,
+    "longitude": 27.4394328,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5895542544",
+    "name": "Benzinlik",
+    "latitude": 38.1550739,
+    "longitude": 27.3653337,
+    "nearest_osm_node_id": 5895543163
+  },
+  {
+    "station_id": "osm-fuel-node-5895542545",
+    "name": "Benzinlik",
+    "latitude": 38.1516628,
+    "longitude": 27.3665981,
+    "nearest_osm_node_id": 212902051
+  },
+  {
+    "station_id": "osm-fuel-node-5898912133",
+    "name": "Benzinlik",
+    "latitude": 38.6782551,
+    "longitude": 27.9459525,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-5960635857",
+    "name": "Total Energies",
+    "latitude": 39.377847,
+    "longitude": 27.9564028,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-5960635858",
+    "name": "Benzinlik",
+    "latitude": 39.4375658,
+    "longitude": 27.9319116,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-5960635876",
+    "name": "Benzinlik",
+    "latitude": 39.4956398,
+    "longitude": 27.9033719,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-5972923063",
+    "name": "BP",
+    "latitude": 38.8147003,
+    "longitude": 26.9808081,
+    "nearest_osm_node_id": 3969487322
+  },
+  {
+    "station_id": "osm-fuel-node-5972923076",
+    "name": "BP",
+    "latitude": 38.8042229,
+    "longitude": 26.9768279,
+    "nearest_osm_node_id": 6564178944
+  },
+  {
+    "station_id": "osm-fuel-node-5973947641",
+    "name": "Petrol Ofisi",
+    "latitude": 38.7485407,
+    "longitude": 27.61793,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5974048961",
+    "name": "Zorpet Zorlu Petrolcülük",
+    "latitude": 38.6135666,
+    "longitude": 27.3802923,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5974048962",
+    "name": "Shell",
+    "latitude": 38.6128201,
+    "longitude": 27.3803533,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5974050017",
+    "name": "Opet",
+    "latitude": 38.6141531,
+    "longitude": 27.3915004,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-5974256159",
+    "name": "Shell",
+    "latitude": 38.3862513,
+    "longitude": 27.1342801,
+    "nearest_osm_node_id": 3911422693
+  },
+  {
+    "station_id": "osm-fuel-node-5974256160",
+    "name": "Benzinlik",
+    "latitude": 38.3982057,
+    "longitude": 27.1293999,
+    "nearest_osm_node_id": 2270633418
+  },
+  {
+    "station_id": "osm-fuel-node-5974256165",
+    "name": "Benzinlik",
+    "latitude": 38.4019144,
+    "longitude": 27.124552,
+    "nearest_osm_node_id": 2209721185
+  },
+  {
+    "station_id": "osm-fuel-node-5974709770",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4414124,
+    "longitude": 27.1804847,
+    "nearest_osm_node_id": 497094132
+  },
+  {
+    "station_id": "osm-fuel-node-5974709773",
+    "name": "Benzinlik",
+    "latitude": 38.4396794,
+    "longitude": 27.1720079,
+    "nearest_osm_node_id": 2209625637
+  },
+  {
+    "station_id": "osm-fuel-node-5974872893",
+    "name": "Shell",
+    "latitude": 38.4682385,
+    "longitude": 27.1134355,
+    "nearest_osm_node_id": 392411359
+  },
+  {
+    "station_id": "osm-fuel-node-5981848610",
+    "name": "Benzinlik",
+    "latitude": 38.4392689,
+    "longitude": 27.2553227,
+    "nearest_osm_node_id": 13780681774
+  },
+  {
+    "station_id": "osm-fuel-node-5981848611",
+    "name": "Benzinlik",
+    "latitude": 38.4384412,
+    "longitude": 27.2512243,
+    "nearest_osm_node_id": 1858891851
+  },
+  {
+    "station_id": "osm-fuel-node-5988037134",
+    "name": "Milangaz",
+    "latitude": 39.6039518,
+    "longitude": 27.0343424,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-5992936570",
+    "name": "Benzinlik",
+    "latitude": 38.3713114,
+    "longitude": 27.1086458,
+    "nearest_osm_node_id": 12840687497
+  },
+  {
+    "station_id": "osm-fuel-node-5996176596",
+    "name": "Shell",
+    "latitude": 38.3423484,
+    "longitude": 26.8634078,
+    "nearest_osm_node_id": 6051414358
+  },
+  {
+    "station_id": "osm-fuel-node-5996176597",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3577178,
+    "longitude": 26.8706564,
+    "nearest_osm_node_id": 6044412163
+  },
+  {
+    "station_id": "osm-fuel-node-5996176598",
+    "name": "Petrol Ofisi",
+    "latitude": 38.360391,
+    "longitude": 26.8729472,
+    "nearest_osm_node_id": 6510593900
+  },
+  {
+    "station_id": "osm-fuel-node-5996176599",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3667344,
+    "longitude": 26.8734525,
+    "nearest_osm_node_id": 6510508526
+  },
+  {
+    "station_id": "osm-fuel-node-6002729485",
+    "name": "Termo",
+    "latitude": 39.2636624,
+    "longitude": 28.3151225,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6004519886",
+    "name": "Energy",
+    "latitude": 39.202028,
+    "longitude": 28.4900882,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6029173400",
+    "name": "Shell",
+    "latitude": 39.6299421,
+    "longitude": 27.6254994,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-6031332480",
+    "name": "BP",
+    "latitude": 39.620711,
+    "longitude": 27.8877451,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-6031385689",
+    "name": "Petrol Ofisi",
+    "latitude": 39.6078415,
+    "longitude": 27.9028935,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-6036096985",
+    "name": "naim keskin sunpet 474 istasyon mah",
+    "latitude": 39.5491217,
+    "longitude": 28.6498025,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-6036097085",
+    "name": "kabakci petrol sunpet 347 dursunbey",
+    "latitude": 39.6042807,
+    "longitude": 28.625583,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-6072379211",
+    "name": "Total",
+    "latitude": 39.6051826,
+    "longitude": 27.9061973,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-6073118236",
+    "name": "Benzinlik",
+    "latitude": 38.4545154,
+    "longitude": 27.2591535,
+    "nearest_osm_node_id": 6180959142
+  },
+  {
+    "station_id": "osm-fuel-node-6111477296",
+    "name": "Benzinlik",
+    "latitude": 38.4547089,
+    "longitude": 27.3122691,
+    "nearest_osm_node_id": 12983981207
+  },
+  {
+    "station_id": "osm-fuel-node-6129125773",
+    "name": "Benzinlik",
+    "latitude": 38.1820086,
+    "longitude": 27.4766811,
+    "nearest_osm_node_id": 6129127426
+  },
+  {
+    "station_id": "osm-fuel-node-6129127451",
+    "name": "Opet",
+    "latitude": 38.1710909,
+    "longitude": 27.4515328,
+    "nearest_osm_node_id": 1033127258
+  },
+  {
+    "station_id": "osm-fuel-node-6129127616",
+    "name": "Aytemiz",
+    "latitude": 38.1819749,
+    "longitude": 27.4899492,
+    "nearest_osm_node_id": 10832213553
+  },
+  {
+    "station_id": "osm-fuel-node-6129127862",
+    "name": "Benzinlik",
+    "latitude": 38.1806762,
+    "longitude": 27.3552792,
+    "nearest_osm_node_id": 10796603826
+  },
+  {
+    "station_id": "osm-fuel-node-6129127864",
+    "name": "Benzinlik",
+    "latitude": 38.1853598,
+    "longitude": 27.3522048,
+    "nearest_osm_node_id": 1678566606
+  },
+  {
+    "station_id": "osm-fuel-node-6129127869",
+    "name": "BP",
+    "latitude": 38.1853325,
+    "longitude": 27.353196,
+    "nearest_osm_node_id": 1955905143
+  },
+  {
+    "station_id": "osm-fuel-node-6129234610",
+    "name": "Benzinlik",
+    "latitude": 38.1706737,
+    "longitude": 27.7153042,
+    "nearest_osm_node_id": 6549131333
+  },
+  {
+    "station_id": "osm-fuel-node-6129263190",
+    "name": "Benzinlik",
+    "latitude": 38.254375,
+    "longitude": 27.3853489,
+    "nearest_osm_node_id": 11101143051
+  },
+  {
+    "station_id": "osm-fuel-node-6131535851",
+    "name": "Benzinlik",
+    "latitude": 39.1930432,
+    "longitude": 27.8529702,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-6131586375",
+    "name": "Benzinlik",
+    "latitude": 39.1670324,
+    "longitude": 27.8429805,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6131586378",
+    "name": "Benzinlik",
+    "latitude": 39.1689315,
+    "longitude": 27.8442391,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6131586889",
+    "name": "Benzinlik",
+    "latitude": 39.1935835,
+    "longitude": 27.8543812,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-6131586894",
+    "name": "Benzinlik",
+    "latitude": 39.1908127,
+    "longitude": 27.8538326,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-6132931880",
+    "name": "Benzinlik",
+    "latitude": 39.1293459,
+    "longitude": 27.8402752,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6132932101",
+    "name": "Benzinlik",
+    "latitude": 39.1170757,
+    "longitude": 27.8385242,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6136545292",
+    "name": "Benzinlik",
+    "latitude": 38.6334041,
+    "longitude": 27.3926897,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6136545297",
+    "name": "Benzinlik",
+    "latitude": 38.6342504,
+    "longitude": 27.3921107,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6166890492",
+    "name": "Long",
+    "latitude": 38.5120345,
+    "longitude": 27.9194898,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-6166890497",
+    "name": "7 Kita",
+    "latitude": 38.5089139,
+    "longitude": 27.898728,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-6170617506",
+    "name": "Shell",
+    "latitude": 38.4923366,
+    "longitude": 27.6646852,
+    "nearest_osm_node_id": 6934555302
+  },
+  {
+    "station_id": "osm-fuel-node-6170860837",
+    "name": "Opet",
+    "latitude": 39.5961202,
+    "longitude": 26.9621081,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6171154894",
+    "name": "Opet",
+    "latitude": 38.4516351,
+    "longitude": 27.5653719,
+    "nearest_osm_node_id": 6934357029
+  },
+  {
+    "station_id": "osm-fuel-node-6171154899",
+    "name": "Shell",
+    "latitude": 38.450718,
+    "longitude": 27.557016,
+    "nearest_osm_node_id": 6934357029
+  },
+  {
+    "station_id": "osm-fuel-node-6171190262",
+    "name": "TotalEnergies",
+    "latitude": 39.2792889,
+    "longitude": 26.7046552,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-6178436155",
+    "name": "OPET",
+    "latitude": 38.3197657,
+    "longitude": 27.1379709,
+    "nearest_osm_node_id": 2588188728
+  },
+  {
+    "station_id": "osm-fuel-node-6388077890",
+    "name": "Sunpet",
+    "latitude": 39.4649285,
+    "longitude": 27.3800545,
+    "nearest_osm_node_id": 8989786560
+  },
+  {
+    "station_id": "osm-fuel-node-6388077916",
+    "name": "Benzinlik",
+    "latitude": 39.6347788,
+    "longitude": 27.6554436,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-6388077918",
+    "name": "Shell",
+    "latitude": 39.6399608,
+    "longitude": 27.6860693,
+    "nearest_osm_node_id": 3778474174
+  },
+  {
+    "station_id": "osm-fuel-node-6409211402",
+    "name": "Shell",
+    "latitude": 38.4870101,
+    "longitude": 28.1318121,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-6409211425",
+    "name": "Aytemiz",
+    "latitude": 38.4968552,
+    "longitude": 28.0225905,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-6409211426",
+    "name": "Shell",
+    "latitude": 38.4966049,
+    "longitude": 28.0214071,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-6413290045",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5774146,
+    "longitude": 26.9353543,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6420931624",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4900289,
+    "longitude": 28.1512076,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6420931625",
+    "name": "Benzinlik",
+    "latitude": 38.4905033,
+    "longitude": 28.1447997,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6420931626",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4899158,
+    "longitude": 28.1353444,
+    "nearest_osm_node_id": 818639770
+  },
+  {
+    "station_id": "osm-fuel-node-6420931627",
+    "name": "Aytemiz",
+    "latitude": 38.4941505,
+    "longitude": 28.1787827,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6420931628",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4939045,
+    "longitude": 28.177729,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6420931629",
+    "name": "Opet",
+    "latitude": 38.495144,
+    "longitude": 28.1807731,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6420931630",
+    "name": "Parkoil",
+    "latitude": 38.5105886,
+    "longitude": 28.2974546,
+    "nearest_osm_node_id": 6984730317
+  },
+  {
+    "station_id": "osm-fuel-node-6420931652",
+    "name": "Total Energies",
+    "latitude": 38.5143063,
+    "longitude": 28.3277841,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-6420931653",
+    "name": "Long",
+    "latitude": 38.5305241,
+    "longitude": 28.3976007,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-6420932888",
+    "name": "Aygaz",
+    "latitude": 38.5663634,
+    "longitude": 28.5820923,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-6435341692",
+    "name": "Benzinlik",
+    "latitude": 39.5032234,
+    "longitude": 27.0326135,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6435368737",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.3918304,
+    "longitude": 26.8387057,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-6532340787",
+    "name": "Shell",
+    "latitude": 38.3975099,
+    "longitude": 27.0669173,
+    "nearest_osm_node_id": 5979181261
+  },
+  {
+    "station_id": "osm-fuel-node-6567663019",
+    "name": "Benzinlik",
+    "latitude": 38.6379463,
+    "longitude": 27.3843919,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663024",
+    "name": "Benzinlik",
+    "latitude": 38.6158005,
+    "longitude": 27.4669328,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663025",
+    "name": "Benzinlik",
+    "latitude": 38.6135255,
+    "longitude": 27.4719498,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663026",
+    "name": "Benzinlik",
+    "latitude": 38.6125957,
+    "longitude": 27.4783074,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663030",
+    "name": "Benzinlik",
+    "latitude": 38.6005214,
+    "longitude": 27.5018311,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663038",
+    "name": "Benzinlik",
+    "latitude": 38.5870509,
+    "longitude": 27.5236769,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567663039",
+    "name": "Benzinlik",
+    "latitude": 38.5611568,
+    "longitude": 27.5568137,
+    "nearest_osm_node_id": 10313312762
+  },
+  {
+    "station_id": "osm-fuel-node-6567663040",
+    "name": "Benzinlik",
+    "latitude": 38.5604562,
+    "longitude": 27.5575969,
+    "nearest_osm_node_id": 10313312762
+  },
+  {
+    "station_id": "osm-fuel-node-6567663041",
+    "name": "Benzinlik",
+    "latitude": 38.5581978,
+    "longitude": 27.5625838,
+    "nearest_osm_node_id": 10313312762
+  },
+  {
+    "station_id": "osm-fuel-node-6567663042",
+    "name": "Benzinlik",
+    "latitude": 38.5564429,
+    "longitude": 27.5645637,
+    "nearest_osm_node_id": 10313312762
+  },
+  {
+    "station_id": "osm-fuel-node-6567775235",
+    "name": "Total",
+    "latitude": 38.6232204,
+    "longitude": 27.4313958,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567775236",
+    "name": "Opet Şehzadeler",
+    "latitude": 38.6714903,
+    "longitude": 27.4653481,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567775237",
+    "name": "Total",
+    "latitude": 38.6921603,
+    "longitude": 27.5063966,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567775238",
+    "name": "Bpet",
+    "latitude": 38.696956,
+    "longitude": 27.5131234,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6567775239",
+    "name": "Sanoil",
+    "latitude": 38.707563,
+    "longitude": 27.536521,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-6576039555",
+    "name": "Benzinlik",
+    "latitude": 39.1829067,
+    "longitude": 27.8513569,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-6576039556",
+    "name": "Benzinlik",
+    "latitude": 39.2485405,
+    "longitude": 27.8799709,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-6576063616",
+    "name": "Benzinlik",
+    "latitude": 39.3115413,
+    "longitude": 27.9888153,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-6576063649",
+    "name": "Benzinlik",
+    "latitude": 39.3741777,
+    "longitude": 27.9962681,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-6593304762",
+    "name": "Benzinlik",
+    "latitude": 39.5058417,
+    "longitude": 27.6769147,
+    "nearest_osm_node_id": 10051759673
+  },
+  {
+    "station_id": "osm-fuel-node-6725993569",
+    "name": "O320 - Akhisar",
+    "latitude": 38.9277536,
+    "longitude": 27.70176,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-6725993570",
+    "name": "O320 - Akhisar",
+    "latitude": 38.9283206,
+    "longitude": 27.701221,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-6725993571",
+    "name": "O375 - Manisa",
+    "latitude": 38.4860769,
+    "longitude": 27.572504,
+    "nearest_osm_node_id": 2412419039
+  },
+  {
+    "station_id": "osm-fuel-node-6725993572",
+    "name": "O375 - Manisa",
+    "latitude": 38.4882044,
+    "longitude": 27.5760321,
+    "nearest_osm_node_id": 2412419039
+  },
+  {
+    "station_id": "osm-fuel-node-6727504895",
+    "name": "Shell Akaryakıt İstasyonu",
+    "latitude": 38.3927161,
+    "longitude": 27.0228788,
+    "nearest_osm_node_id": 442131166
+  },
+  {
+    "station_id": "osm-fuel-node-6732785975",
+    "name": "Benzinlik",
+    "latitude": 38.2203389,
+    "longitude": 28.2060035,
+    "nearest_osm_node_id": 1325835586
+  },
+  {
+    "station_id": "osm-fuel-node-6742282580",
+    "name": "Petrol Ofisi",
+    "latitude": 38.6692012,
+    "longitude": 27.022748,
+    "nearest_osm_node_id": 2589726532
+  },
+  {
+    "station_id": "osm-fuel-node-6742298785",
+    "name": "Benzinlik",
+    "latitude": 38.6513644,
+    "longitude": 27.0386347,
+    "nearest_osm_node_id": 6934929944
+  },
+  {
+    "station_id": "osm-fuel-node-6742298788",
+    "name": "Benzinlik",
+    "latitude": 38.648571,
+    "longitude": 27.0418204,
+    "nearest_osm_node_id": 6934929944
+  },
+  {
+    "station_id": "osm-fuel-node-6742298789",
+    "name": "Shell",
+    "latitude": 38.6441557,
+    "longitude": 27.0470826,
+    "nearest_osm_node_id": 6934929955
+  },
+  {
+    "station_id": "osm-fuel-node-6742298790",
+    "name": "Total",
+    "latitude": 38.613978,
+    "longitude": 27.0719339,
+    "nearest_osm_node_id": 12901953294
+  },
+  {
+    "station_id": "osm-fuel-node-6756964161",
+    "name": "Benzinlik",
+    "latitude": 39.2365597,
+    "longitude": 28.1565418,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6756964197",
+    "name": "Benzinlik",
+    "latitude": 39.2718751,
+    "longitude": 28.1836712,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-6756964198",
+    "name": "Benzinlik",
+    "latitude": 39.2767556,
+    "longitude": 28.1865035,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-6756964199",
+    "name": "Benzinlik",
+    "latitude": 39.2837896,
+    "longitude": 28.191758,
+    "nearest_osm_node_id": 10653921355
+  },
+  {
+    "station_id": "osm-fuel-node-6779621298",
+    "name": "Benzinlik",
+    "latitude": 39.0230959,
+    "longitude": 27.8577852,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-6780489841",
+    "name": "Alpet",
+    "latitude": 39.0496767,
+    "longitude": 27.7372433,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-6780489851",
+    "name": "Benzinlik",
+    "latitude": 39.0942374,
+    "longitude": 27.6833266,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6780489880",
+    "name": "Benzinlik",
+    "latitude": 39.0990752,
+    "longitude": 27.6769094,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-6780547903",
+    "name": "Benzinlik",
+    "latitude": 38.9250159,
+    "longitude": 28.2877941,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6780562486",
+    "name": "Benzinlik",
+    "latitude": 38.9349354,
+    "longitude": 28.2872664,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6780562622",
+    "name": "Benzinlik",
+    "latitude": 38.9092699,
+    "longitude": 28.2859317,
+    "nearest_osm_node_id": 6984723166
+  },
+  {
+    "station_id": "osm-fuel-node-6787972535",
+    "name": "Petrol Ofisi",
+    "latitude": 39.5927339,
+    "longitude": 27.0160916,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6929039217",
+    "name": "Petrol Ofisi",
+    "latitude": 39.596648,
+    "longitude": 27.0079598,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6929095424",
+    "name": "Lukoil",
+    "latitude": 39.5975023,
+    "longitude": 26.9742706,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6929140835",
+    "name": "Eva",
+    "latitude": 39.5586653,
+    "longitude": 27.0292389,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6929188351",
+    "name": "Petrol Ofisi",
+    "latitude": 39.518044,
+    "longitude": 26.9866306,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6929236490",
+    "name": "Total",
+    "latitude": 39.5990963,
+    "longitude": 27.0001632,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-6947925626",
+    "name": "Opet Karşıyaka",
+    "latitude": 38.4777949,
+    "longitude": 27.0957513,
+    "nearest_osm_node_id": 3443338592
+  },
+  {
+    "station_id": "osm-fuel-node-7017102834",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4916634,
+    "longitude": 27.0412658,
+    "nearest_osm_node_id": 457114652
+  },
+  {
+    "station_id": "osm-fuel-node-7017121251",
+    "name": "Shell",
+    "latitude": 38.4654955,
+    "longitude": 27.1368044,
+    "nearest_osm_node_id": 1752626171
+  },
+  {
+    "station_id": "osm-fuel-node-7029813285",
+    "name": "TotalEnergies",
+    "latitude": 38.3306723,
+    "longitude": 26.8626448,
+    "nearest_osm_node_id": 6051414525
+  },
+  {
+    "station_id": "osm-fuel-node-7032048695",
+    "name": "Benzinlik",
+    "latitude": 39.2437742,
+    "longitude": 28.1749879,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7032048696",
+    "name": "Benzinlik",
+    "latitude": 39.2588087,
+    "longitude": 28.1820896,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-7043990357",
+    "name": "Benzinlik",
+    "latitude": 38.9027981,
+    "longitude": 27.8370846,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-7043990378",
+    "name": "Benzinlik",
+    "latitude": 39.1275187,
+    "longitude": 27.8392714,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7043990379",
+    "name": "Benzinlik",
+    "latitude": 39.1403225,
+    "longitude": 27.839629,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7043990380",
+    "name": "Benzinlik",
+    "latitude": 39.1741889,
+    "longitude": 27.848512,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7043990381",
+    "name": "Benzinlik",
+    "latitude": 39.1736567,
+    "longitude": 27.8479703,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7078330804",
+    "name": "Benzinlik",
+    "latitude": 38.619384,
+    "longitude": 27.4214588,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-7078330831",
+    "name": "Benzinlik",
+    "latitude": 38.6256238,
+    "longitude": 27.4400462,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-7078330847",
+    "name": "Benzinlik",
+    "latitude": 38.7268985,
+    "longitude": 27.5754508,
+    "nearest_osm_node_id": 1673183664
+  },
+  {
+    "station_id": "osm-fuel-node-7079059634",
+    "name": "PO / Etik Petrol",
+    "latitude": 38.6655633,
+    "longitude": 26.7563319,
+    "nearest_osm_node_id": 6947543919
+  },
+  {
+    "station_id": "osm-fuel-node-7080117254",
+    "name": "Alpet",
+    "latitude": 38.6370707,
+    "longitude": 26.5132284,
+    "nearest_osm_node_id": 5255407876
+  },
+  {
+    "station_id": "osm-fuel-node-7181502165",
+    "name": "Petrol Ofisi",
+    "latitude": 38.2277009,
+    "longitude": 27.9815556,
+    "nearest_osm_node_id": 1364083691
+  },
+  {
+    "station_id": "osm-fuel-node-7334856841",
+    "name": "Opet Aliağa",
+    "latitude": 38.7570528,
+    "longitude": 26.9558035,
+    "nearest_osm_node_id": 1731065203
+  },
+  {
+    "station_id": "osm-fuel-node-7334856842",
+    "name": "Shell",
+    "latitude": 38.7563192,
+    "longitude": 26.9552893,
+    "nearest_osm_node_id": 1731065203
+  },
+  {
+    "station_id": "osm-fuel-node-7335162975",
+    "name": "Benzinlik",
+    "latitude": 39.5828911,
+    "longitude": 27.933464,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-7335197852",
+    "name": "Benzinlik",
+    "latitude": 39.5420652,
+    "longitude": 28.0519899,
+    "nearest_osm_node_id": 12707243201
+  },
+  {
+    "station_id": "osm-fuel-node-7340280863",
+    "name": "Benzinlik",
+    "latitude": 38.9325781,
+    "longitude": 27.7855225,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-7445233772",
+    "name": "Opet",
+    "latitude": 38.4294769,
+    "longitude": 27.2193281,
+    "nearest_osm_node_id": 1858891695
+  },
+  {
+    "station_id": "osm-fuel-node-7445233773",
+    "name": "BP",
+    "latitude": 38.428809,
+    "longitude": 27.2173986,
+    "nearest_osm_node_id": 12325176962
+  },
+  {
+    "station_id": "osm-fuel-node-7793232988",
+    "name": "Shell",
+    "latitude": 39.5696443,
+    "longitude": 26.758673,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-7793232989",
+    "name": "Shell",
+    "latitude": 39.5706788,
+    "longitude": 26.7624507,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-7868574711",
+    "name": "Benzinlik",
+    "latitude": 38.2087477,
+    "longitude": 26.830663,
+    "nearest_osm_node_id": 7599621737
+  },
+  {
+    "station_id": "osm-fuel-node-7935349648",
+    "name": "Benzinlik",
+    "latitude": 38.5152989,
+    "longitude": 27.7036421,
+    "nearest_osm_node_id": 10676888197
+  },
+  {
+    "station_id": "osm-fuel-node-7935349649",
+    "name": "Benzinlik",
+    "latitude": 38.5159943,
+    "longitude": 27.7038466,
+    "nearest_osm_node_id": 10676888197
+  },
+  {
+    "station_id": "osm-fuel-node-7935349650",
+    "name": "Benzinlik",
+    "latitude": 38.5188493,
+    "longitude": 27.7046994,
+    "nearest_osm_node_id": 10676888197
+  },
+  {
+    "station_id": "osm-fuel-node-7935409495",
+    "name": "Benzinlik",
+    "latitude": 38.8303639,
+    "longitude": 27.8742928,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-7935409539",
+    "name": "Benzinlik",
+    "latitude": 38.7898056,
+    "longitude": 27.9020375,
+    "nearest_osm_node_id": 6170746212
+  },
+  {
+    "station_id": "osm-fuel-node-7938314232",
+    "name": "Benzinlik",
+    "latitude": 39.1854004,
+    "longitude": 27.623822,
+    "nearest_osm_node_id": 10032256078
+  },
+  {
+    "station_id": "osm-fuel-node-7938367554",
+    "name": "Benzinlik",
+    "latitude": 39.1007748,
+    "longitude": 27.6918008,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-7938367555",
+    "name": "Benzinlik",
+    "latitude": 38.9846085,
+    "longitude": 27.7827885,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-7938367556",
+    "name": "Benzinlik",
+    "latitude": 38.9866328,
+    "longitude": 27.7835603,
+    "nearest_osm_node_id": 2674875306
+  },
+  {
+    "station_id": "osm-fuel-node-7953725866",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3970971,
+    "longitude": 27.1309443,
+    "nearest_osm_node_id": 2209720758
+  },
+  {
+    "station_id": "osm-fuel-node-7953897459",
+    "name": "BP",
+    "latitude": 38.3576101,
+    "longitude": 27.1348956,
+    "nearest_osm_node_id": 12899399568
+  },
+  {
+    "station_id": "osm-fuel-node-7954002184",
+    "name": "Shell",
+    "latitude": 38.3814827,
+    "longitude": 27.1047229,
+    "nearest_osm_node_id": 2270497543
+  },
+  {
+    "station_id": "osm-fuel-node-7954954055",
+    "name": "Benzinlik",
+    "latitude": 38.3454549,
+    "longitude": 26.7884341,
+    "nearest_osm_node_id": 644617895
+  },
+  {
+    "station_id": "osm-fuel-node-7954954056",
+    "name": "Opet Urla",
+    "latitude": 38.3431149,
+    "longitude": 26.7853704,
+    "nearest_osm_node_id": 3792832273
+  },
+  {
+    "station_id": "osm-fuel-node-7954954057",
+    "name": "Benzinlik",
+    "latitude": 38.3401025,
+    "longitude": 26.779355,
+    "nearest_osm_node_id": 1980898495
+  },
+  {
+    "station_id": "osm-fuel-node-7954954058",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3363317,
+    "longitude": 26.7714732,
+    "nearest_osm_node_id": 6901709621
+  },
+  {
+    "station_id": "osm-fuel-node-7954954059",
+    "name": "Opet Urla",
+    "latitude": 38.3370441,
+    "longitude": 26.771578,
+    "nearest_osm_node_id": 6901709621
+  },
+  {
+    "station_id": "osm-fuel-node-7954954060",
+    "name": "Benzinlik",
+    "latitude": 38.33458,
+    "longitude": 26.7678346,
+    "nearest_osm_node_id": 2919569314
+  },
+  {
+    "station_id": "osm-fuel-node-7954954061",
+    "name": "Benzinlik",
+    "latitude": 38.3346129,
+    "longitude": 26.7667356,
+    "nearest_osm_node_id": 2929405079
+  },
+  {
+    "station_id": "osm-fuel-node-7954954062",
+    "name": "Total",
+    "latitude": 38.3277011,
+    "longitude": 26.7481604,
+    "nearest_osm_node_id": 6586828920
+  },
+  {
+    "station_id": "osm-fuel-node-7954954063",
+    "name": "Benzinlik",
+    "latitude": 38.3182714,
+    "longitude": 26.7104482,
+    "nearest_osm_node_id": 6902271210
+  },
+  {
+    "station_id": "osm-fuel-node-7960193543",
+    "name": "Benzinlik",
+    "latitude": 39.4140917,
+    "longitude": 28.1343363,
+    "nearest_osm_node_id": 10653932038
+  },
+  {
+    "station_id": "osm-fuel-node-7960862228",
+    "name": "Benzinlik",
+    "latitude": 38.3512221,
+    "longitude": 28.5227792,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-7960915931",
+    "name": "Benzinlik",
+    "latitude": 38.4036234,
+    "longitude": 28.5446698,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-8008811718",
+    "name": "Moil",
+    "latitude": 38.512951,
+    "longitude": 27.9354036,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-8008811720",
+    "name": "Petrol Ofisi",
+    "latitude": 38.5128454,
+    "longitude": 27.9232771,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-8035027134",
+    "name": "Benzinlik",
+    "latitude": 38.3588818,
+    "longitude": 28.5193439,
+    "nearest_osm_node_id": 6550732135
+  },
+  {
+    "station_id": "osm-fuel-node-8035399230",
+    "name": "Benzinlik",
+    "latitude": 38.4348271,
+    "longitude": 28.3910149,
+    "nearest_osm_node_id": 2764870952
+  },
+  {
+    "station_id": "osm-fuel-node-8074085298",
+    "name": "Benzinlik",
+    "latitude": 38.1518258,
+    "longitude": 28.0160518,
+    "nearest_osm_node_id": 1346679185
+  },
+  {
+    "station_id": "osm-fuel-node-8074085299",
+    "name": "Benzinlik",
+    "latitude": 38.2126175,
+    "longitude": 27.9786403,
+    "nearest_osm_node_id": 13758425927
+  },
+  {
+    "station_id": "osm-fuel-node-8074085300",
+    "name": "Benzinlik",
+    "latitude": 38.2149998,
+    "longitude": 27.9764945,
+    "nearest_osm_node_id": 1346679840
+  },
+  {
+    "station_id": "osm-fuel-node-8074085301",
+    "name": "Benzinlik",
+    "latitude": 38.217018,
+    "longitude": 27.9750388,
+    "nearest_osm_node_id": 13289822264
+  },
+  {
+    "station_id": "osm-fuel-node-8074085306",
+    "name": "Benzinlik",
+    "latitude": 38.2484904,
+    "longitude": 28.0550043,
+    "nearest_osm_node_id": 1509482320
+  },
+  {
+    "station_id": "osm-fuel-node-8075441458",
+    "name": "Benzinlik",
+    "latitude": 38.2725869,
+    "longitude": 27.2311052,
+    "nearest_osm_node_id": 6942668096
+  },
+  {
+    "station_id": "osm-fuel-node-8075441459",
+    "name": "Benzinlik",
+    "latitude": 38.2721113,
+    "longitude": 27.2308409,
+    "nearest_osm_node_id": 6942668096
+  },
+  {
+    "station_id": "osm-fuel-node-8075456635",
+    "name": "Benzinlik",
+    "latitude": 38.2797761,
+    "longitude": 27.2109837,
+    "nearest_osm_node_id": 2256575134
+  },
+  {
+    "station_id": "osm-fuel-node-8095835511",
+    "name": "Benzinlik",
+    "latitude": 38.15769,
+    "longitude": 27.1563251,
+    "nearest_osm_node_id": 1954950468
+  },
+  {
+    "station_id": "osm-fuel-node-8096003756",
+    "name": "Petrol Ofisi",
+    "latitude": 38.2217005,
+    "longitude": 27.137494,
+    "nearest_osm_node_id": 1678569416
+  },
+  {
+    "station_id": "osm-fuel-node-8096521912",
+    "name": "BP",
+    "latitude": 38.634295,
+    "longitude": 27.358585,
+    "nearest_osm_node_id": 6900096316
+  },
+  {
+    "station_id": "osm-fuel-node-8096521914",
+    "name": "Shell",
+    "latitude": 38.6069652,
+    "longitude": 27.3626019,
+    "nearest_osm_node_id": 9452362937
+  },
+  {
+    "station_id": "osm-fuel-node-8098919755",
+    "name": "Hazar Petrol",
+    "latitude": 39.0740788,
+    "longitude": 26.8894167,
+    "nearest_osm_node_id": 790248473
+  },
+  {
+    "station_id": "osm-fuel-node-8104302454",
+    "name": "Benzinlik",
+    "latitude": 38.5087446,
+    "longitude": 27.6877956,
+    "nearest_osm_node_id": 6934555302
+  },
+  {
+    "station_id": "osm-fuel-node-8113905395",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3762922,
+    "longitude": 27.0733878,
+    "nearest_osm_node_id": 10677764666
+  },
+  {
+    "station_id": "osm-fuel-node-8113905404",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3746742,
+    "longitude": 27.075913,
+    "nearest_osm_node_id": 2202920995
+  },
+  {
+    "station_id": "osm-fuel-node-8120329494",
+    "name": "Opet Torbalı",
+    "latitude": 38.1849193,
+    "longitude": 27.3550209,
+    "nearest_osm_node_id": 1955905143
+  },
+  {
+    "station_id": "osm-fuel-node-8120329496",
+    "name": "Opet Torbalı",
+    "latitude": 38.1921943,
+    "longitude": 27.3460977,
+    "nearest_osm_node_id": 1936539611
+  },
+  {
+    "station_id": "osm-fuel-node-8120329497",
+    "name": "Benzinlik",
+    "latitude": 38.1947642,
+    "longitude": 27.3444508,
+    "nearest_osm_node_id": 1678567084
+  },
+  {
+    "station_id": "osm-fuel-node-8120329498",
+    "name": "Benzinlik",
+    "latitude": 38.2119666,
+    "longitude": 27.3341139,
+    "nearest_osm_node_id": 6547690822
+  },
+  {
+    "station_id": "osm-fuel-node-8120329499",
+    "name": "Benzinlik",
+    "latitude": 38.221773,
+    "longitude": 27.3145151,
+    "nearest_osm_node_id": 6578455241
+  },
+  {
+    "station_id": "osm-fuel-node-8120329500",
+    "name": "Benzinlik",
+    "latitude": 38.231621,
+    "longitude": 27.2962557,
+    "nearest_osm_node_id": 7577851756
+  },
+  {
+    "station_id": "osm-fuel-node-8120349515",
+    "name": "Benzinlik",
+    "latitude": 38.1698585,
+    "longitude": 27.3585206,
+    "nearest_osm_node_id": 6548854417
+  },
+  {
+    "station_id": "osm-fuel-node-8133732085",
+    "name": "Benzinlik",
+    "latitude": 38.490715,
+    "longitude": 26.9459518,
+    "nearest_osm_node_id": 1699257453
+  },
+  {
+    "station_id": "osm-fuel-node-8134062362",
+    "name": "Opet",
+    "latitude": 38.5198915,
+    "longitude": 27.2757236,
+    "nearest_osm_node_id": 2383892797
+  },
+  {
+    "station_id": "osm-fuel-node-8135849108",
+    "name": "Benzinlik",
+    "latitude": 38.349728,
+    "longitude": 28.5291371,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-8135849109",
+    "name": "Benzinlik",
+    "latitude": 38.3445222,
+    "longitude": 28.5415117,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-8135849110",
+    "name": "Benzinlik",
+    "latitude": 38.3433336,
+    "longitude": 28.5438453,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-8135896872",
+    "name": "Benzinlik",
+    "latitude": 38.3813092,
+    "longitude": 28.6122183,
+    "nearest_osm_node_id": 12648803101
+  },
+  {
+    "station_id": "osm-fuel-node-8247720083",
+    "name": "Benzinlik",
+    "latitude": 38.2946841,
+    "longitude": 26.5181396,
+    "nearest_osm_node_id": 6513098009
+  },
+  {
+    "station_id": "osm-fuel-node-8256839910",
+    "name": "Zerek Petrol",
+    "latitude": 38.3796856,
+    "longitude": 27.1129606,
+    "nearest_osm_node_id": 2207683928
+  },
+  {
+    "station_id": "osm-fuel-node-8399675420",
+    "name": "Benzinlik",
+    "latitude": 39.10655,
+    "longitude": 27.8053355,
+    "nearest_osm_node_id": 2674876688
+  },
+  {
+    "station_id": "osm-fuel-node-8416061145",
+    "name": "Sunpet",
+    "latitude": 39.0657192,
+    "longitude": 27.0333715,
+    "nearest_osm_node_id": 7016427653
+  },
+  {
+    "station_id": "osm-fuel-node-8416061146",
+    "name": "Termo",
+    "latitude": 39.0729742,
+    "longitude": 27.0792157,
+    "nearest_osm_node_id": 6919821923
+  },
+  {
+    "station_id": "osm-fuel-node-8416061147",
+    "name": "Opet",
+    "latitude": 39.0825491,
+    "longitude": 27.1125547,
+    "nearest_osm_node_id": 480641466
+  },
+  {
+    "station_id": "osm-fuel-node-8491994812",
+    "name": "Shell",
+    "latitude": 38.5591133,
+    "longitude": 27.0441157,
+    "nearest_osm_node_id": 738825034
+  },
+  {
+    "station_id": "osm-fuel-node-8728399662",
+    "name": "Benzinlik",
+    "latitude": 38.2370751,
+    "longitude": 27.2842751,
+    "nearest_osm_node_id": 6578428008
+  },
+  {
+    "station_id": "osm-fuel-node-8728399663",
+    "name": "Benzinlik",
+    "latitude": 38.2327179,
+    "longitude": 27.2930866,
+    "nearest_osm_node_id": 6578387878
+  },
+  {
+    "station_id": "osm-fuel-node-8728399680",
+    "name": "Opet Torbalı",
+    "latitude": 38.2384838,
+    "longitude": 27.2807883,
+    "nearest_osm_node_id": 6578525370
+  },
+  {
+    "station_id": "osm-fuel-node-8728438502",
+    "name": "Benzinlik",
+    "latitude": 38.2742476,
+    "longitude": 27.1518142,
+    "nearest_osm_node_id": 7619616266
+  },
+  {
+    "station_id": "osm-fuel-node-8728862853",
+    "name": "Benzinlik",
+    "latitude": 38.2129257,
+    "longitude": 27.3319256,
+    "nearest_osm_node_id": 6547679012
+  },
+  {
+    "station_id": "osm-fuel-node-8740223091",
+    "name": "Opet",
+    "latitude": 39.5983022,
+    "longitude": 26.9789728,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-8823590210",
+    "name": "Benzinlik",
+    "latitude": 38.4144873,
+    "longitude": 27.4929953,
+    "nearest_osm_node_id": 6908378925
+  },
+  {
+    "station_id": "osm-fuel-node-8823620081",
+    "name": "Petrol Ofisi",
+    "latitude": 38.1922167,
+    "longitude": 27.5340388,
+    "nearest_osm_node_id": 1033127305
+  },
+  {
+    "station_id": "osm-fuel-node-8854209661",
+    "name": "Opet",
+    "latitude": 39.4840129,
+    "longitude": 26.9367814,
+    "nearest_osm_node_id": 9945645310
+  },
+  {
+    "station_id": "osm-fuel-node-8866667510",
+    "name": "Shell",
+    "latitude": 38.3056136,
+    "longitude": 26.3033841,
+    "nearest_osm_node_id": 6336383317
+  },
+  {
+    "station_id": "osm-fuel-node-8866667511",
+    "name": "Benzinlik",
+    "latitude": 38.3157364,
+    "longitude": 26.3039403,
+    "nearest_osm_node_id": 6345077180
+  },
+  {
+    "station_id": "osm-fuel-node-9009625658",
+    "name": "Lukoil Gas",
+    "latitude": 38.3851255,
+    "longitude": 27.1342761,
+    "nearest_osm_node_id": 3911422697
+  },
+  {
+    "station_id": "osm-fuel-node-9131866857",
+    "name": "Kadoil",
+    "latitude": 39.3893464,
+    "longitude": 26.8363836,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-9131866858",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.3894893,
+    "longitude": 26.8376265,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-9155372476",
+    "name": "Benzinlik",
+    "latitude": 39.5100654,
+    "longitude": 26.9729809,
+    "nearest_osm_node_id": 2188066129
+  },
+  {
+    "station_id": "osm-fuel-node-9155398973",
+    "name": "Petrol Ofisi",
+    "latitude": 39.329776,
+    "longitude": 26.6983482,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-9155398974",
+    "name": "Total",
+    "latitude": 39.3302694,
+    "longitude": 26.6984477,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-9157305850",
+    "name": "Shell - Işıkkent",
+    "latitude": 38.4296163,
+    "longitude": 27.2127252,
+    "nearest_osm_node_id": 2202909551
+  },
+  {
+    "station_id": "osm-fuel-node-9157305851",
+    "name": "Benzinlik",
+    "latitude": 38.4324768,
+    "longitude": 27.2132857,
+    "nearest_osm_node_id": 33083300
+  },
+  {
+    "station_id": "osm-fuel-node-9157347304",
+    "name": "Petrol Ofisi",
+    "latitude": 38.3162687,
+    "longitude": 27.1416272,
+    "nearest_osm_node_id": 2209884846
+  },
+  {
+    "station_id": "osm-fuel-node-9158177230",
+    "name": "Lukoil",
+    "latitude": 38.5639659,
+    "longitude": 27.0480464,
+    "nearest_osm_node_id": 10600820322
+  },
+  {
+    "station_id": "osm-fuel-node-9158185479",
+    "name": "Sunpet",
+    "latitude": 38.3701843,
+    "longitude": 26.8456566,
+    "nearest_osm_node_id": 6480606372
+  },
+  {
+    "station_id": "osm-fuel-node-9158185493",
+    "name": "Petrol Ofisi",
+    "latitude": 38.5485832,
+    "longitude": 27.0370134,
+    "nearest_osm_node_id": 268796898
+  },
+  {
+    "station_id": "osm-fuel-node-9179581202",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0587326,
+    "longitude": 26.8872753,
+    "nearest_osm_node_id": 7045933184
+  },
+  {
+    "station_id": "osm-fuel-node-9280524271",
+    "name": "Sahh",
+    "latitude": 38.4964242,
+    "longitude": 27.8607916,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-9280524272",
+    "name": "Aytemiz",
+    "latitude": 38.4844069,
+    "longitude": 27.8229664,
+    "nearest_osm_node_id": 2681109856
+  },
+  {
+    "station_id": "osm-fuel-node-9280524273",
+    "name": "Türkiye Petrolleri",
+    "latitude": 38.488473,
+    "longitude": 27.7994342,
+    "nearest_osm_node_id": 9466236928
+  },
+  {
+    "station_id": "osm-fuel-node-9280524274",
+    "name": "7 Kıta",
+    "latitude": 38.4894881,
+    "longitude": 27.7941904,
+    "nearest_osm_node_id": 9466236928
+  },
+  {
+    "station_id": "osm-fuel-node-9280524275",
+    "name": "Epic",
+    "latitude": 38.4940235,
+    "longitude": 27.7831837,
+    "nearest_osm_node_id": 9466236928
+  },
+  {
+    "station_id": "osm-fuel-node-9280524276",
+    "name": "Hazar - Kasabalı",
+    "latitude": 38.4949661,
+    "longitude": 27.7776311,
+    "nearest_osm_node_id": 9466236928
+  },
+  {
+    "station_id": "osm-fuel-node-9280524277",
+    "name": "Aygaz",
+    "latitude": 38.4875202,
+    "longitude": 27.6944653,
+    "nearest_osm_node_id": 10676888197
+  },
+  {
+    "station_id": "osm-fuel-node-9280524278",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4888968,
+    "longitude": 27.6924216,
+    "nearest_osm_node_id": 10676888197
+  },
+  {
+    "station_id": "osm-fuel-node-9280524279",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4924168,
+    "longitude": 27.6752777,
+    "nearest_osm_node_id": 6934555302
+  },
+  {
+    "station_id": "osm-fuel-node-9280524280",
+    "name": "Aytemiz",
+    "latitude": 38.4910151,
+    "longitude": 27.6542956,
+    "nearest_osm_node_id": 1487288848
+  },
+  {
+    "station_id": "osm-fuel-node-9280524281",
+    "name": "Benzinlik",
+    "latitude": 38.4918969,
+    "longitude": 27.6530074,
+    "nearest_osm_node_id": 1487288865
+  },
+  {
+    "station_id": "osm-fuel-node-9280524282",
+    "name": "Opet",
+    "latitude": 38.4901792,
+    "longitude": 27.6469197,
+    "nearest_osm_node_id": 1487288848
+  },
+  {
+    "station_id": "osm-fuel-node-9280524283",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4755342,
+    "longitude": 27.6034302,
+    "nearest_osm_node_id": 2290174532
+  },
+  {
+    "station_id": "osm-fuel-node-9280524284",
+    "name": "7 Kita",
+    "latitude": 38.4647693,
+    "longitude": 27.5874381,
+    "nearest_osm_node_id": 3919969846
+  },
+  {
+    "station_id": "osm-fuel-node-9280524285",
+    "name": "Lukoil",
+    "latitude": 38.4540563,
+    "longitude": 27.5734865,
+    "nearest_osm_node_id": 11578192502
+  },
+  {
+    "station_id": "osm-fuel-node-9280547619",
+    "name": "Shell",
+    "latitude": 38.4616591,
+    "longitude": 27.339441,
+    "nearest_osm_node_id": 1509934129
+  },
+  {
+    "station_id": "osm-fuel-node-9280547620",
+    "name": "Shell",
+    "latitude": 38.4624238,
+    "longitude": 27.3388129,
+    "nearest_osm_node_id": 985895323
+  },
+  {
+    "station_id": "osm-fuel-node-9280547621",
+    "name": "Shell",
+    "latitude": 38.4623786,
+    "longitude": 27.3440167,
+    "nearest_osm_node_id": 1509934243
+  },
+  {
+    "station_id": "osm-fuel-node-9280547622",
+    "name": "Benzinlik",
+    "latitude": 38.462028,
+    "longitude": 27.3784184,
+    "nearest_osm_node_id": 6908310523
+  },
+  {
+    "station_id": "osm-fuel-node-9280547623",
+    "name": "Benzinlik",
+    "latitude": 38.4605643,
+    "longitude": 27.3846804,
+    "nearest_osm_node_id": 1487288609
+  },
+  {
+    "station_id": "osm-fuel-node-9280547624",
+    "name": "Opet Kemalpaşa",
+    "latitude": 38.4592192,
+    "longitude": 27.3992051,
+    "nearest_osm_node_id": 5641377013
+  },
+  {
+    "station_id": "osm-fuel-node-9280547625",
+    "name": "Benzinlik",
+    "latitude": 38.4588216,
+    "longitude": 27.4027539,
+    "nearest_osm_node_id": 1487288591
+  },
+  {
+    "station_id": "osm-fuel-node-9280547626",
+    "name": "Benzinlik",
+    "latitude": 38.4590634,
+    "longitude": 27.4079953,
+    "nearest_osm_node_id": 9280547628
+  },
+  {
+    "station_id": "osm-fuel-node-9280547627",
+    "name": "Benzinlik",
+    "latitude": 38.4579212,
+    "longitude": 27.4109338,
+    "nearest_osm_node_id": 6171154972
+  },
+  {
+    "station_id": "osm-fuel-node-9280547644",
+    "name": "Benzinlik",
+    "latitude": 38.4545668,
+    "longitude": 27.4442176,
+    "nearest_osm_node_id": 3861010832
+  },
+  {
+    "station_id": "osm-fuel-node-9280547645",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4542808,
+    "longitude": 27.4467891,
+    "nearest_osm_node_id": 3260340043
+  },
+  {
+    "station_id": "osm-fuel-node-9280547646",
+    "name": "Benzinlik",
+    "latitude": 38.455266,
+    "longitude": 27.4465016,
+    "nearest_osm_node_id": 6593404242
+  },
+  {
+    "station_id": "osm-fuel-node-9280547647",
+    "name": "Benzinlik",
+    "latitude": 38.4518555,
+    "longitude": 27.4738913,
+    "nearest_osm_node_id": 1487288466
+  },
+  {
+    "station_id": "osm-fuel-node-9280547648",
+    "name": "Opet Kemalpaşa",
+    "latitude": 38.4513632,
+    "longitude": 27.4850135,
+    "nearest_osm_node_id": 10605596491
+  },
+  {
+    "station_id": "osm-fuel-node-9280547649",
+    "name": "Benzinlik",
+    "latitude": 38.4500887,
+    "longitude": 27.4904974,
+    "nearest_osm_node_id": 6908354499
+  },
+  {
+    "station_id": "osm-fuel-node-9280547650",
+    "name": "Benzinlik",
+    "latitude": 38.4498041,
+    "longitude": 27.5006536,
+    "nearest_osm_node_id": 6908378962
+  },
+  {
+    "station_id": "osm-fuel-node-9280547651",
+    "name": "Pacific",
+    "latitude": 38.4487968,
+    "longitude": 27.5030987,
+    "nearest_osm_node_id": 6908378969
+  },
+  {
+    "station_id": "osm-fuel-node-9280547652",
+    "name": "Benzinlik",
+    "latitude": 38.4481812,
+    "longitude": 27.5170538,
+    "nearest_osm_node_id": 6908396225
+  },
+  {
+    "station_id": "osm-fuel-node-9280547654",
+    "name": "Kadoil",
+    "latitude": 38.448077,
+    "longitude": 27.5339693,
+    "nearest_osm_node_id": 6934326782
+  },
+  {
+    "station_id": "osm-fuel-node-9280547655",
+    "name": "Benzinlik",
+    "latitude": 38.467604,
+    "longitude": 27.5925862,
+    "nearest_osm_node_id": 2412419039
+  },
+  {
+    "station_id": "osm-fuel-node-9280547658",
+    "name": "Benzinlik",
+    "latitude": 38.4262136,
+    "longitude": 27.6644819,
+    "nearest_osm_node_id": 12329326059
+  },
+  {
+    "station_id": "osm-fuel-node-9280547659",
+    "name": "Benzinlik",
+    "latitude": 38.4139255,
+    "longitude": 27.6226508,
+    "nearest_osm_node_id": 945613331
+  },
+  {
+    "station_id": "osm-fuel-node-9285557808",
+    "name": "Benzinlik",
+    "latitude": 38.2886057,
+    "longitude": 26.3812967,
+    "nearest_osm_node_id": 644617551
+  },
+  {
+    "station_id": "osm-fuel-node-9285557809",
+    "name": "BP",
+    "latitude": 38.3033792,
+    "longitude": 26.3654511,
+    "nearest_osm_node_id": 1980955598
+  },
+  {
+    "station_id": "osm-fuel-node-9285557810",
+    "name": "Benzinlik",
+    "latitude": 38.3133195,
+    "longitude": 26.3426516,
+    "nearest_osm_node_id": 3087822384
+  },
+  {
+    "station_id": "osm-fuel-node-9285557811",
+    "name": "Shell",
+    "latitude": 38.3257432,
+    "longitude": 26.3224085,
+    "nearest_osm_node_id": 6477356900
+  },
+  {
+    "station_id": "osm-fuel-node-9285562387",
+    "name": "Total",
+    "latitude": 38.4758689,
+    "longitude": 27.0366067,
+    "nearest_osm_node_id": 3829010855
+  },
+  {
+    "station_id": "osm-fuel-node-9285562392",
+    "name": "Opet",
+    "latitude": 38.4931812,
+    "longitude": 27.0520476,
+    "nearest_osm_node_id": 3891058485
+  },
+  {
+    "station_id": "osm-fuel-node-9285562393",
+    "name": "Total",
+    "latitude": 38.4809139,
+    "longitude": 27.0555843,
+    "nearest_osm_node_id": 528875072
+  },
+  {
+    "station_id": "osm-fuel-node-9285562394",
+    "name": "Petrol Ofisi",
+    "latitude": 38.4895675,
+    "longitude": 27.0701186,
+    "nearest_osm_node_id": 3805459375
+  },
+  {
+    "station_id": "osm-fuel-node-9285580777",
+    "name": "BP",
+    "latitude": 38.5060844,
+    "longitude": 27.270024,
+    "nearest_osm_node_id": 544478225
+  },
+  {
+    "station_id": "osm-fuel-node-9285580778",
+    "name": "Total",
+    "latitude": 38.5085719,
+    "longitude": 27.2692158,
+    "nearest_osm_node_id": 10560082855
+  },
+  {
+    "station_id": "osm-fuel-node-9285580779",
+    "name": "GO",
+    "latitude": 38.5148621,
+    "longitude": 27.2769287,
+    "nearest_osm_node_id": 12404845173
+  },
+  {
+    "station_id": "osm-fuel-node-9285605246",
+    "name": "Benzinlik",
+    "latitude": 38.5834859,
+    "longitude": 27.071461,
+    "nearest_osm_node_id": 6817805300
+  },
+  {
+    "station_id": "osm-fuel-node-9285605247",
+    "name": "Aytemiz",
+    "latitude": 38.5861096,
+    "longitude": 27.0728664,
+    "nearest_osm_node_id": 1854702831
+  },
+  {
+    "station_id": "osm-fuel-node-9285605248",
+    "name": "Shell",
+    "latitude": 38.5872647,
+    "longitude": 27.0724536,
+    "nearest_osm_node_id": 1854702915
+  },
+  {
+    "station_id": "osm-fuel-node-9285605249",
+    "name": "Opet Menemen",
+    "latitude": 38.591007,
+    "longitude": 27.0741104,
+    "nearest_osm_node_id": 6956817599
+  },
+  {
+    "station_id": "osm-fuel-node-9285605270",
+    "name": "Benzinlik",
+    "latitude": 38.6125153,
+    "longitude": 27.0726571,
+    "nearest_osm_node_id": 12739085546
+  },
+  {
+    "station_id": "osm-fuel-node-9285605271",
+    "name": "Benzinlik",
+    "latitude": 38.6228395,
+    "longitude": 27.0591892,
+    "nearest_osm_node_id": 6564559581
+  },
+  {
+    "station_id": "osm-fuel-node-9292884116",
+    "name": "Termo",
+    "latitude": 38.7256805,
+    "longitude": 26.9808799,
+    "nearest_osm_node_id": 6926464151
+  },
+  {
+    "station_id": "osm-fuel-node-9292914041",
+    "name": "Benzinlik",
+    "latitude": 38.8391075,
+    "longitude": 27.0028852,
+    "nearest_osm_node_id": 9455920731
+  },
+  {
+    "station_id": "osm-fuel-node-9292914044",
+    "name": "Shell",
+    "latitude": 38.8974262,
+    "longitude": 27.0643184,
+    "nearest_osm_node_id": 6520826001
+  },
+  {
+    "station_id": "osm-fuel-node-9292914045",
+    "name": "Opet Aliağa",
+    "latitude": 38.8978845,
+    "longitude": 27.0633914,
+    "nearest_osm_node_id": 6550894804
+  },
+  {
+    "station_id": "osm-fuel-node-9292914046",
+    "name": "Benzinlik",
+    "latitude": 38.9116087,
+    "longitude": 27.0615554,
+    "nearest_osm_node_id": 6550908984
+  },
+  {
+    "station_id": "osm-fuel-node-9292914047",
+    "name": "Aytemiz",
+    "latitude": 38.944725,
+    "longitude": 27.0477003,
+    "nearest_osm_node_id": 6560785413
+  },
+  {
+    "station_id": "osm-fuel-node-9292914048",
+    "name": "Petline - Talip Petrol",
+    "latitude": 38.9582435,
+    "longitude": 27.0458343,
+    "nearest_osm_node_id": 480120997
+  },
+  {
+    "station_id": "osm-fuel-node-9292914049",
+    "name": "Benzinlik",
+    "latitude": 38.9670736,
+    "longitude": 27.0427407,
+    "nearest_osm_node_id": 6847072063
+  },
+  {
+    "station_id": "osm-fuel-node-9292914050",
+    "name": "Benzinlik",
+    "latitude": 38.9885126,
+    "longitude": 27.05295,
+    "nearest_osm_node_id": 6549244371
+  },
+  {
+    "station_id": "osm-fuel-node-9292914051",
+    "name": "Benzinlik",
+    "latitude": 39.0080801,
+    "longitude": 27.0638745,
+    "nearest_osm_node_id": 3803549074
+  },
+  {
+    "station_id": "osm-fuel-node-9292914052",
+    "name": "Shell",
+    "latitude": 39.0594894,
+    "longitude": 27.1049457,
+    "nearest_osm_node_id": 12279115319
+  },
+  {
+    "station_id": "osm-fuel-node-9292914053",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0720004,
+    "longitude": 27.1166846,
+    "nearest_osm_node_id": 12367171166
+  },
+  {
+    "station_id": "osm-fuel-node-9292914054",
+    "name": "Shell",
+    "latitude": 39.0720837,
+    "longitude": 27.068983,
+    "nearest_osm_node_id": 6847153401
+  },
+  {
+    "station_id": "osm-fuel-node-9292914055",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0683278,
+    "longitude": 26.9787322,
+    "nearest_osm_node_id": 7994964289
+  },
+  {
+    "station_id": "osm-fuel-node-9292914059",
+    "name": "Petrol Ofisi",
+    "latitude": 39.0800097,
+    "longitude": 26.9217783,
+    "nearest_osm_node_id": 7059767736
+  },
+  {
+    "station_id": "osm-fuel-node-9292914060",
+    "name": "İpragaz Go",
+    "latitude": 39.0867126,
+    "longitude": 26.9168448,
+    "nearest_osm_node_id": 7059796948
+  },
+  {
+    "station_id": "osm-fuel-node-9292914082",
+    "name": "Benzinlik",
+    "latitude": 39.1762045,
+    "longitude": 26.829849,
+    "nearest_osm_node_id": 8424737530
+  },
+  {
+    "station_id": "osm-fuel-node-9292914093",
+    "name": "TotalEnergies",
+    "latitude": 39.1910696,
+    "longitude": 26.8125229,
+    "nearest_osm_node_id": 8431542875
+  },
+  {
+    "station_id": "osm-fuel-node-9292914094",
+    "name": "Benzinlik",
+    "latitude": 39.2202394,
+    "longitude": 26.7990275,
+    "nearest_osm_node_id": 11117610805
+  },
+  {
+    "station_id": "osm-fuel-node-9292914095",
+    "name": "Türkiye Petrolleri",
+    "latitude": 39.2356288,
+    "longitude": 26.7611345,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-9292914096",
+    "name": "Shell",
+    "latitude": 39.2374399,
+    "longitude": 26.7595073,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-9292914097",
+    "name": "TotalEnergies",
+    "latitude": 39.2636433,
+    "longitude": 26.7081708,
+    "nearest_osm_node_id": 1845961664
+  },
+  {
+    "station_id": "osm-fuel-node-9292914105",
+    "name": "Shell",
+    "latitude": 39.33543,
+    "longitude": 26.7374759,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-9292914106",
+    "name": "Opet",
+    "latitude": 39.3408145,
+    "longitude": 26.7539213,
+    "nearest_osm_node_id": 11117610806
+  },
+  {
+    "station_id": "osm-fuel-node-9292914107",
+    "name": "Kadoil",
+    "latitude": 39.3786489,
+    "longitude": 26.8301775,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-9292914108",
+    "name": "Petrol Ofisi",
+    "latitude": 39.3795167,
+    "longitude": 26.8298882,
+    "nearest_osm_node_id": 2932737080
+  },
+  {
+    "station_id": "osm-fuel-node-9292920017",
+    "name": "Benzinlik",
+    "latitude": 38.7285193,
+    "longitude": 26.9810096,
+    "nearest_osm_node_id": 10876276224
+  },
+  {
+    "station_id": "osm-fuel-node-9292920018",
+    "name": "Opet Aliağa",
+    "latitude": 38.7297281,
+    "longitude": 26.9791095,
+    "nearest_osm_node_id": 10876276224
+  },
+  {
+    "station_id": "osm-fuel-node-9293039799",
+    "name": "Benzinlik",
+    "latitude": 38.6071073,
+    "longitude": 27.0840503,
+    "nearest_osm_node_id": 1721760662
+  },
+  {
+    "station_id": "osm-fuel-node-9293039801",
+    "name": "Benzinlik",
+    "latitude": 38.6109573,
+    "longitude": 27.1034369,
+    "nearest_osm_node_id": 981352378
+  },
+  {
+    "station_id": "osm-fuel-node-9293039802",
+    "name": "Benzinlik",
+    "latitude": 38.6174063,
+    "longitude": 27.1206311,
+    "nearest_osm_node_id": 7647064376
+  }
+]
